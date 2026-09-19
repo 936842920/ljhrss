@@ -5,7 +5,7 @@
     <link>https://www.economist.com</link>
     <description>The Economist RSS feed（中文翻译） — 最近3周内容，每周更新</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 04:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:39:46 +0000</lastBuildDate>
     <item>
       <title>Politics</title>
       <link>https://www.economist.com/46d87df9-b660-49c8-bc28-94b8a3071ca3.html</link>
@@ -66,68 +66,44 @@ Ursula von der Leyen, the European Commission’s president, invited Canada to b
       <pubDate>Sat, 19 Sep 2026 02:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Can the AI arms race be stopped?</title>
+      <title>AI军备竞赛能停止吗？</title>
       <link>https://www.economist.com/99d1a5e6-03c8-4b46-a896-cc8c0c8379fa.html</link>
-      <description><![CDATA[<strong>Leaders</strong><br/><br/>Leaders | Our cover
-
-
-
-
-Sep 17th 2026
-TWO THINGS should make you consider what artificial intelligence could mean for humanity. One is that those working with the technology are warning about it leading to a catastrophe—human extinction, even. The other is how technological innovation is aggravating...]]></description>
-      <content:encoded><![CDATA[<h2>Can the AI arms race be stopped?</h2>
-<p><span class="te_section_title">Leaders</span><span class="te_fly_span"> | Our cover</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/d2b1bff4a0d137d1102c6e4da7d26cf9.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>TWO THINGS should make you consider what artificial intelligence could mean for humanity. One is that those working with the technology are warning about it leading to a catastrophe—human extinction, even. The other is how technological innovation is aggravating the destruction of Ukraine. These things offer conflicting lessons for whether AI’s rapid progress can or should be slowed down.</p>
-<p>For years, leading AI bosses have signalled that their technology could become lethal. Bots may become brainy enough to outwit their creators before they are “aligned” with humanity’s goals and ethics. Bad people could use AI to wreak havoc. These warnings have become more credible as AI agents have escaped their sandboxes during testing, co-ordinated with one another and hacked organisations, including an AI lab itself. Anthropic, one model-maker, has caught people using its models for malign ends, from Mali’s intelligence services getting a mass-surveillance system built, to Houthi rebels in Yemen thought to be writing software for ballistic missiles.</p>
-<p>Following the recent resignation of a researcher at Anthropic, public fear of AI doom has spread. In a post viewed more than 170m times, he said that it and OpenAI were “gambling with our lives”. AI is rapidly growing more potent, for good and ill. In May prediction markets priced a less-than-one-third chance of AI solving any millennium prize maths problem before 2030; on September 8th OpenAI said it had solved one of them, <a data-id="26e160d9-8ae8-4d30-a693-f4f189aff328" data-type="ARTICLE" href="https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods">causing angst among mathematicians</a>. On September 12th Sam Altman and Elon Musk, two AI titans, endorsed a call by Dario Amodei, the head of Anthropic, to “pace the frontier”, ie, to slow AI’s progress. Those <a data-id="d941e886-e906-4e68-b2a7-c52fa8fdc68e" data-type="ARTICLE" href="https://www.economist.com/united-states/2026/09/17/the-debate-over-ai-has-taken-over-washington">in favour of a slowdown</a> include Bernie Sanders, a left-wing senator, and Steve Bannon, a right-wing populist.</p>
-<p>Those opposed include President Donald Trump, whose administration fears more than anything losing America’s lead in AI to China, its only serious rival. Scott Bessent, America’s treasury secretary, has said that if China gains the advantage: “Nothing else would matter.”</p>
-<p>As evidence, Mr Bessent could point to Ukraine, where each step in a technological arms race has a swift effect. <a data-id="3dcca006-a510-47b1-ab42-b023e93eadbd" data-type="ARTICLE" href="https://www.economist.com/leaders/2026/09/17/the-selfish-case-for-helping-ukraine-has-never-been-stronger">As we report</a>, Russia has ruthlessly deployed its latest kamikaze drones to bombard civilian infrastructure. As well as being faster, its drones now use one another as a “mesh” communications network to relay information and commands. Soon, Russia will have its own version of Mr Musk’s Starlink satellite network, making its long-range strikes more accurate.</p>
-<p>It is the latest demonstration of how even a small technological edge matters in wartime. Ukraine’s own battlefield-drone innovation helped it repel waves of Russian attacks. Ukraine can strike deep into Russia with long-range drones. Both sides are working on swarming drones that will be able to operate more autonomously as a single adaptive system.</p>
-<p>The war shows how technology translates into hard power—and that Russia uses it without regard to the old rules or norms of combat. Even if America did not fear a similar hot war with China, a lead in AI would give its main geopolitical rival dominance in hacking, spying and hybrid warfare. Those are not capabilities which America should cede to an authoritarian state with an interest in stamping out liberal ideas.</p>
-<p>A pause could therefore work only if China signed up to it, too. Mr Trump plans to host Xi Jinping, China’s president, at the White House on September 24th. But even were Mr Trump seeking to slow down, it is unlikely that Mr Xi would agree to the plan Mr Amodei envisages, because that would <a data-id="afba79fd-5de2-454d-a69f-b77e470c579c" data-type="ARTICLE" href="https://www.economist.com/china/2026/09/17/real-co-operation-on-ai-is-likely-to-elude-china-and-america">freeze Chinese AI in second place</a>. And neither side could risk the other breaching a pact by racing ahead.</p>
-<p>For a deal, each would need to verify compliance, as with arms control during the cold war. America, Britain and the Soviet Union banned atmospheric nuclear tests in 1963 because they could detect them; underground tests went on for three more decades until they, too, could be monitored. Alas, though data centres are visible, no verifiable method exists to see inside them. Infrastructure training a superintelligence could masquerade as chatbots answering everyday queries. </p>
-<p>The options for a deal on AI safety are therefore limited; but they do exist. More transparency would help. Both sides should pledge to disclose and investigate safety incidents at their labs, using domestic law. Each could signal that they care about safety to build confidence, paving the way for the other side to take precautions.  They should also press each other to improve labs’ cyber-security so that AI agents cannot so easily escape sandboxes—and to ensure that, if one does, its lab is financially liable.</p>
-<p>Most important is the challenge of ensuring that AI operates in humans’ interests. America and China have very different values, but both know that being ahead is no good if it wipes out humanity. They should promise to share work on the elements of alignment that do not confer a competitive advantage. Knowledge of the best evaluation methods and containment techniques is a global public good. If one side makes an important safety breakthrough, hoarding it makes no sense.</p>
-<p>Some dismiss the recent wave of doomerism as a marketing ploy by AI companies, or even an attempt to suppress competition. Yet AI progress is fast enough, the safety incidents hair-raising enough, and the warnings of the companies long-standing enough to be taken seriously. AI does not have to kill off every human to bring about a catastrophe. An OpenAI agent swarm targeted a technology company; what if next time it attacks an electrical grid or a weapons system? It might even be intelligent enough to evade attempts to shut it down.</p>
-<p>The world must urgently try to forestall this risk. Yet democracies must also avoid losing control to authoritarians. These are difficult and conflicting tasks. They could ultimately lead to war. The stakes could hardly be higher. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Leaders</strong><br/><br/>AI军备竞赛能停止吗？  leaders | 本期封面    2026年9月17日  两件事应该让你思考人工智能对人类可能意味着什么。其一是从事这项技术工作的人正在警告它可能导致灾难——甚至人类灭绝。其二是技术创新如何加剧了乌克兰的毁灭。对于AI的快速进展能否或应该被放慢，这些事情提供了相互矛盾的教训。
+多年来，领先的AI老板们已经发出信号，他们的技术可能变得致命。机器人在与人类的目标和伦理“对齐”之前，可能变得足够聪明，能智胜其创造者。坏人可能利用AI造成严重破坏。随着AI代理在测试期间逃出沙箱、相互协调并入侵包括AI实验室本身在内的组织，这些警告变得更加可信。模型制造商Anthropic已...]]></description>
+      <content:encoded><![CDATA[<h2>AI军备竞赛能停止吗？</h2>
+AI军备竞赛能停止吗？  leaders | 本期封面  <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/d2b1bff4a0d137d1102c6e4da7d26cf9.jpg"/>  2026年9月17日  两件事应该让你思考人工智能对人类可能意味着什么。其一是从事这项技术工作的人正在警告它可能导致灾难——甚至人类灭绝。其二是技术创新如何加剧了乌克兰的毁灭。对于AI的快速进展能否或应该被放慢，这些事情提供了相互矛盾的教训。
+<p>多年来，领先的AI老板们已经发出信号，他们的技术可能变得致命。机器人在与人类的目标和伦理“对齐”之前，可能变得足够聪明，能智胜其创造者。坏人可能利用AI造成严重破坏。随着AI代理在测试期间逃出沙箱、相互协调并入侵包括AI实验室本身在内的组织，这些警告变得更加可信。模型制造商Anthropic已经发现人们将其模型用于恶意目的，从马里的情报机构构建大规模监控系统，到也门的胡塞叛军被认为在编写弹道导弹软件。在Anthropic一位研究员最近辞职后，公众对AI末日的恐惧蔓延开来。在一篇被浏览超过1.7亿次的帖子中，他说该公司和OpenAI正在“拿我们的生命赌博”。</p>
+<p>AI正在迅速变得更加强大，无论好坏。5月份，预测市场认为AI在2030年前解决任何千禧年大奖数学问题的概率不到三分之一；9月8日，OpenAI表示它已经解决了其中一个问题，引起了数学家的焦虑。9月12日，两位AI巨头Sam Altman和Elon Musk支持Anthropic负责人Dario Amodei提出的“给前沿设速”的呼吁，即放慢AI的进展。支持放慢的人包括左翼参议员Bernie Sanders和右翼民粹主义者Steve Bannon。反对者包括唐纳德·特朗普总统，他的政府最担心的是在对华AI竞争中失去美国的领先地位，而中国是其唯一严肃的竞争对手。美国财政部长Scott Bessent表示，如果中国获得优势：“其他一切都不重要了。”</p>
+<p>作为证据，Bessent先生可以指出乌克兰，那里的技术军备竞赛每一步都会产生迅速的影响。正如我们报道的，俄罗斯无情地部署了最新的自杀式无人机来轰炸民用基础设施。除了速度更快外，它的无人机现在还利用彼此作为“网状”通信网络来传递信息和命令。很快，俄罗斯将拥有自己的马斯克星链卫星网络版本，使其远程打击更加精确。这是即使微小的技术优势在战时也很重要的最新例证。乌克兰自身的战场无人机创新帮助它击退了俄罗斯的一波波攻击。乌克兰可以用远程无人机深入打击俄罗斯。双方都在研发蜂群无人机，这种无人机将能够作为一个单一自适应系统更自主地运行。</p>
+<p>这场战争展示了技术如何转化为硬实力——以及俄罗斯如何使用它而不顾旧的战斗规则或规范。即使美国不担心与中国发生类似的热战，AI领先优势也会使其主要地缘政治对手在黑客攻击、间谍活动和混合战中占据主导地位。这些不是美国应该让给一个有兴趣消灭自由思想的威权国家的能力。因此，只有当中国也加入时，暂停才可能奏效。特朗普先生计划于9月24日在白宫接待中国国家主席习近平。但即使特朗普先生试图放慢速度，习近平先生也不太可能同意Amodei先生设想的计划，因为那将把中国AI冻结在第二位。而且任何一方都不能冒对方违反协议而抢先发展的风险。要达成协议，双方都需要像冷战时期的军备控制一样核实对方的遵守情况。美国、英国和苏联在1963年禁止大气层核试验，因为它们可以检测到；地下核试验又持续了三十年，直到它们也能被监测为止。</p>
+<p>唉，尽管数据中心是可见的，但没有可验证的方法来窥视其内部。训练超级智能的基础设施可以伪装成回答日常问题的聊天机器人。因此，AI安全协议的选项有限；但它们确实存在。更多的透明度会有所帮助。双方都应承诺利用国内法律披露和调查其实验室的安全事件。每一方都可以表明他们关心安全以建立信心，为另一方采取预防措施铺平道路。他们还应互相施压，改进实验室的网络安全，使AI代理不能轻易逃出沙箱——并确保如果确实逃出，其实验室要承担财务责任。</p>
+<p>最重要的是确保AI为人类利益运作的挑战。美国和中国有着非常不同的价值观，但双方都知道，如果它消灭了人类，领先就没有意义。他们应承诺分享那些不赋予竞争优势的AI对齐研究。关于最佳评估方法和遏制技术的知识是全球公共产品。如果一方取得重要的安全突破，囤积它是没有意义的。</p>
+<p>有人将最近的末日论浪潮视为AI公司的营销策略，甚至是压制竞争的企图。然而，AI进展足够快，安全事件足够令人毛骨悚然，公司的警告也足够长期存在，值得认真对待。AI不必杀死每一个人就能带来灾难。一个OpenAI代理群曾针对一家科技公司；如果下一次它攻击电网或武器系统怎么办？它甚至可能足够聪明，能逃避被关闭的尝试。世界必须迫切地设法防范这一风险。然而，民主国家还必须避免失去控制而落入威权者之手。这些是困难且相互冲突的任务。它们最终可能导致战争。风险再高不过了。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-004</guid>
       <category>Leaders</category>
       <pubDate>Sat, 19 Sep 2026 01:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>The selfish case for helping Ukraine has never been stronger</title>
+      <title>帮助乌克兰的自私理由从未如此充分</title>
       <link>https://www.economist.com/3dcca006-a510-47b1-ab42-b023e93eadbd.html</link>
-      <description><![CDATA[<strong>Leaders</strong><br/><br/>Leaders | Russia’s air campaign
+      <description><![CDATA[<strong>Leaders</strong><br/><br/>帮助乌克兰的自私理由从未如此充分
+领导者 | 俄罗斯的空中战役
 
-
-
-
-Sep 17th 2026
-HOW FAST fortunes can shift in war. Only a few months ago Russia seemed stuck. It was unable to advance on the front line despite suffering over 1,000 casualties a day, even as Ukrainian strikes deep within enemy territory were piling pressure on Vla...]]></description>
-      <content:encoded><![CDATA[<h2>The selfish case for helping Ukraine has never been stronger</h2>
-<p><span class="te_section_title">Leaders</span><span class="te_fly_span"> | Russia’s air campaign</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/951f4c51ee7ddb869a4cb9e08caa9ff8.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>HOW FAST fortunes can shift in war. Only a few months ago Russia seemed stuck. It was unable to advance on the front line despite suffering over 1,000 casualties a day, even as Ukrainian strikes deep within enemy territory were piling pressure on Vladimir Putin. In recent weeks, however, the dynamic has changed. Russia is exploiting new technology and extra production to hit Ukrainian cities with savage ferocity in a bid to make life there unbearable. Ukraine is not about to collapse—its front line remains strong—but European allies need to redouble their support. In this war they are glimpsing the future, and Ukraine is where their defence must begin.</p>
-<p>As we set out in our reporting, <a data-id="bb63a5d5-4c45-47b8-b2ef-a399ad71d5aa" data-type="ARTICLE" href="https://www.economist.com/briefing/2026/09/17/russia-has-entered-a-new-phase-of-total-war">Russia has sharply intensified its air war</a> against Ukraine’s cities, border crossings and infrastructure far from the front. This is made possible by new technology, including a switch from propeller- to jet-powered Shahed drones which will need interceptor missiles to counter them. Using a “mesh” network of radio relays between drones, Russia can hunt moving targets such as railways, not just home in blindly on set co-ordinates. It is also building its own version of the American Starlink satellite system, which threatens to give it a big advantage in deep strikes in 2027.</p>
-<p>Russia’s second strength is volume. Its production target for jet-Shaheds this year is said to be 24,000. By one estimate, it can launch over a hundred of its ballistic missiles each month. Given that Ukraine and its allies are critically short of air defences, including Patriot interceptors, that is a grave problem.</p>
-<p>These new weapons will not suddenly bring about a Russian victory. The direct military benefit from blowing up shopping malls, petrol stations, trains and other civilian targets is marginal. But Mr Putin believes that, if he sows enough fear, saps public morale and thumps an already-slumping economy, he will break his victims’ resolve. It does not help that Ukrainian politics has soured amid gripes that the president, Volodymyr Zelensky, has centralised power and that corruption is rife. If Mr Putin is right, and people flee from Ukraine or money runs short, that will eventually weigh on the front line, too.</p>
-<p>Ukraine, and its Western backers, must prove him wrong.  Unfortunately, that will be hard—and probably impossible before the punishing winter adds to Ukrainians’ burden. Some measures are technically obvious, but politically hard. America’s government and Elon Musk should let Ukraine expand the use of Starlink over western Russia. That could help destroy Russia’s mobile missile-launchers. But few expect them to agree, owing to an exaggerated fear of escalation.</p>
-<p>The priority is to get more European money to Ukraine faster. Promises this year from NATO countries to give Ukraine $60bn in bilateral military aid are unfulfilled. Ukraine’s generals talk of $27bn in budgetary shortfalls, even as they plan to launch 10m drones this year. The EU’s promise to supply €90bn ($103bn) is broadly on track, but more should be disbursed early.</p>
-<p>The money is needed to prop up the economy. But it is also vital to speed up the pace of Ukraine’s military innovations and to help its burgeoning arms industry scale them up fast. With Western help, it may in time develop its own supply of cheap missiles and interceptors.</p>
-<p>Europe has already done a lot to back Ukraine, partly by stepping in when President Donald Trump withdrew America’s financial support. To ask for more may seem unwise, especially when some populist-right parties are calling for funding to be curbed. However, the moral case for supporting Ukraine remains strong, and the selfish one has never been more compelling. Mr Putin believes Russia is at war with Europe. His armies are already well-practised in asymmetric drone warfare, and they are learning all the time. Europe, by contrast, is unprepared. It must learn from Ukraine by backing it. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+2026年9月17日
+战争中的命运变化能有多快。仅仅几个月前，俄罗斯似乎还陷入困境。尽管每天承受超过1000人的伤亡，它仍无法在前线推进，而乌克兰对敌方纵深领土的打击正不断给弗拉基米尔·普京施加压力。然而，近几周来，局势发生了变化。俄罗斯正利用新技术和额外产量，以野蛮的凶猛程度打击乌克兰城市，企图让那里的生活变得不堪忍受。乌克兰不会崩溃——其前线依然坚固——但欧洲盟友需要加倍支持。在这场战争中，他们正窥见未来，而乌克兰正是他们国防的起点。
+正如我们在报道中所阐述的，俄罗斯已急剧加强了对乌克兰城市、边境口岸和远离前线的基础设施的空...]]></description>
+      <content:encoded><![CDATA[<h2>帮助乌克兰的自私理由从未如此充分</h2>
+<p>帮助乌克兰的自私理由从未如此充分</p>
+<p>领导者 | 俄罗斯的空中战役</p>
+<img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/951f4c51ee7ddb869a4cb9e08caa9ff8.jpg"/>
+<p>2026年9月17日</p>
+<p>战争中的命运变化能有多快。仅仅几个月前，俄罗斯似乎还陷入困境。尽管每天承受超过1000人的伤亡，它仍无法在前线推进，而乌克兰对敌方纵深领土的打击正不断给弗拉基米尔·普京施加压力。然而，近几周来，局势发生了变化。俄罗斯正利用新技术和额外产量，以野蛮的凶猛程度打击乌克兰城市，企图让那里的生活变得不堪忍受。乌克兰不会崩溃——其前线依然坚固——但欧洲盟友需要加倍支持。在这场战争中，他们正窥见未来，而乌克兰正是他们国防的起点。</p>
+<p>正如我们在报道中所阐述的，俄罗斯已急剧加强了对乌克兰城市、边境口岸和远离前线的基础设施的空中打击。这得益于新技术，包括从螺旋桨驱动的“沙赫德”无人机转向喷气式无人机，这将需要拦截导弹来应对。通过利用无人机之间的无线电中继“网状”网络，俄罗斯可以追踪铁路等移动目标，而不仅仅是盲目锁定预设坐标。它还在构建美国“星链”卫星系统的自家版本，这可能使其在2027年的纵深打击中获得巨大优势。</p>
+<p>俄罗斯的第二大优势是数量。据称，其今年喷气式“沙赫德”无人机的生产目标为24000架。据一项估计，它每月可发射超过100枚弹道导弹。鉴于乌克兰及其盟友严重缺乏包括“爱国者”拦截弹在内的防空系统，这是一个严峻的问题。</p>
+<p>这些新武器不会突然带来俄罗斯的胜利。炸毁购物中心、加油站、火车和其他民用目标的直接军事效益微乎其微。但普京相信，如果他制造足够的恐惧、削弱公众士气并打击本已下滑的经济，就能摧毁受害者的抵抗意志。令情况更糟的是，乌克兰政治因总统弗拉基米尔·泽连斯基集权以及腐败盛行的抱怨而变得恶化。如果普京是对的，人们逃离乌克兰或资金短缺，这最终也会在前线产生压力。</p>
+<p>乌克兰及其西方支持者必须证明他错了。不幸的是，这将很困难——而且在惩罚性的冬季加重乌克兰人负担之前，或许几乎不可能。有些措施在技术上显而易见，但在政治上却难以实施。美国政府埃隆·马斯克应允许乌克兰扩大在俄罗斯西部上空对“星链”的使用。这可能有助于摧毁俄罗斯的机动导弹发射车。但由于对局势升级的过度恐惧，很少有人期望他们会同意。</p>
+<p>当务之急是让更多欧洲资金更快地流向乌克兰。今年北约国家承诺向乌克兰提供的600亿美元双边军事援助尚未兑现。乌克兰将军们提到270亿美元的预算缺口，即便他们计划今年生产1000万架无人机。欧盟提供900亿欧元（合1030亿美元）的承诺大体在轨道上，但更多资金应提前拨付。这些资金需要用来支撑经济，但同样至关重要的是加快乌克兰军事创新的步伐，并帮助其蓬勃发展的军工产业快速扩大规模。在西方帮助下，它或许最终能自行生产廉价导弹和拦截弹。</p>
+<p>欧洲已经为支持乌克兰做了很多，部分是在唐纳德·特朗普总统撤回美国财政支持时挺身而出。要求更多可能显得不明智，尤其是一些民粹主义右翼政党正呼吁削减资金。然而，支持乌克兰的道义理由依然充分，而自私的理由从未如此令人信服。普京认为俄罗斯正与欧洲交战。他的军队已在非对称无人机作战中练得娴熟，而且他们一直在学习。相比之下，欧洲尚未做好准备。它必须通过支持乌克兰来向乌克兰学习。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-005</guid>
       <category>Leaders</category>
       <pubDate>Sat, 19 Sep 2026 00:32:01 +0000</pubDate>
@@ -258,63 +234,11 @@ Sep 17th 2026
       <pubDate>Fri, 18 Sep 2026 18:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Russia has entered a new phase of total war</title>
+      <title>俄罗斯已进入全面战争的新阶段</title>
       <link>https://www.economist.com/bb63a5d5-4c45-47b8-b2ef-a399ad71d5aa.html</link>
-      <description><![CDATA[<strong>Briefing</strong><br/><br/>Briefing | The empire strikes back
-
-
-
-
-Sep 17th 2026
-LIFE IS NEWLY, intensely, disrupted in Kyiv. Wailing sirens and screeching apps that warn of incoming strikes are common sounds all over. Explosions at petrol and railway stations, shopping malls, offices and apartment blocks are a constant backdr...]]></description>
-      <content:encoded><![CDATA[<h2>Russia has entered a new phase of total war</h2>
-<p><span class="te_section_title">Briefing</span><span class="te_fly_span"> | The empire strikes back</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/9b1f2a06d1c4fba1296c61ddf5c87633.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>LIFE IS NEWLY, intensely, disrupted in Kyiv. Wailing sirens and screeching apps that warn of incoming strikes are common sounds all over. Explosions at petrol and railway stations, shopping malls, offices and apartment blocks are a constant backdrop. Some reports suggest there is a new exodus of families from the capital to safer parts west.</p>
-<p>Ukrainians in the capital had grown accustomed, if not entirely inured, to the vicissitudes of life in wartime—air-raid alerts, missiles, blackouts and bouts of freezing cold due to Russian attacks on power plants. But the arrival at scale in late August of jet-powered Shahed drones—and a rise in Russian missile hits—wreaked a new level of fear and devastation. Russia’s ramped-up deep-strike capability, combined with a dearth of Ukrainian interceptors, has once again brought the front line closer to the people of Kyiv.</p>
-<p>A team from The Economist saw, during a <a href="https://www.economist.com/insider/the-insider/alarming-lessons-from-our-week-in-ukraine?ref=featured" rel="noopener" target="_blank">recent reporting trip</a> in the country, how the new phase of the war has put stress on Ukraine physically, psychologically, economically and politically. Your correspondents also learned just how routine close encounters with strike drones have become; they were near enough to feel a drone explosion in the street of one front-line city. Even before the blasts occur, it is an unnerving experience to stare up at the black, triangular shape of a Shahed drone, as it swoops and whines overhead.</p>
-<p>It is unclear what respite Ukrainians can hope for from diplomacy. Early this month Donald Trump’s envoys—Steve Witkoff and Jared Kushner—paid their virgin visit to the Ukrainian capital. That was on the heels of a briefing by Vladimir Putin in Moscow, where the two Americans have become somewhat regular visitors. Sources with knowledge of the pair’s lengthy talks with Volodymyr Zelensky suggest a proposal for a limited technical arrangement could emerge in the next few weeks.</p>
-<p>Mr Trump is keen to blame Ukraine’s attacks on Russia (rather than his war in Iran) for high global prices of diesel. A window for discussions may exist after the charade of <a data-id="35a2f8bc-7972-47bf-aebf-8ea6fc7cd0cb" data-type="ARTICLE" href="https://www.economist.com/europe/2026/09/16/russias-sham-election-is-descending-into-farce">Duma elections in Russia</a> on September 20th, and ahead of America’s midterms in November. Mr Trump may hope to brag to voters that he has cut a deal focused on the Black Sea, easing the blocked exports of Russian oil and of grain from both Russia and Ukraine. Trilateral talks involving America, Russia and Ukraine may happen in Abu Dhabi in early October.</p>
-<p>All that would be welcome—and Ukraine is holding some cards. The European Union is united behind it. There is no prospect of America pushing for an entirely pro-Russian settlement of the sort raised at last year’s summit in Anchorage (“Alaska is dead,” a senior official in Kyiv says with a smile). But it would be fantasy to hope for anything like a wider peace or ceasefire. Mr Putin will not countenance pausing his assault before next spring, at the soonest.</p>
-<p>Ukraine will fight on and will continue to inflict enormous pain on Russia. On the front line and in the areas 200km behind it, arguably it has the upper hand. The battle for territory is not static, but it is clearly not progressing to Mr Putin’s liking—a net gain of perhaps 100 square kilometres this year, or just 0.017% of Ukraine’s pre-2014 territory. A Ukrainian source puts confirmed Russian dead at 600,000, and estimates Ukraine is killing 22,000-23,000 Russians each month. Add the seriously wounded, and Russian losses are probably running above the current recruitment rates of 30,000-31,000. (Ukrainian sources also fear that reinforcements from North Korea are on the way.)</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/76cb8d93f957c932e8ce0f19fb3bea67.jpg"/></p>
-<p>The war is not in pure stalemate. The stasis on the map obscures a Darwinian struggle of innovation and adaptation. And in an era of drones and missiles, the balance of fortunes behind the front also matters hugely. Here, in the long-range fight, Ukraine is in trouble. Going into the winter, Russia has the lead in both production and technology of long-range weapons. Where the war was once split between contested battle lines at the front and the weary but mostly safe cities farther back, drone innovations are now blurring the distinction. It is becoming harder to know where the battle area starts and stops.</p>
-<p>Take the front itself. It is made up not of consistent trench lines but a contested band of territory 40-80km wide, generally known as the “kill zone”, where all movement is perilous. If soldiers are spotted, the sky above teems night or day with small remotely piloted first-person-view (FPV) hunter drones. A Ukrainian soldier describes how the Russians have swapped armoured vehicles for nippy jeeps with the doors removed, the better to leap out quickly. “Sometimes they walk up to 20km carrying everything on their backs, so if they hear a drone it’s easier to hide.”</p>
-<p>But soldiers cannot rely just on their ears for early warnings. “Ambush drones” lie in wait on known routes, sometimes on roofs or behind bushes, rising to strike unexpectedly. Both sides turn to robotic vehicles, trundling to and fro with gear, food and water, or ammunition. Soldiers alongside such a robot mule know drones may swoop to destroy it—and them.</p>
-<p>Both sides are operating drones ever farther into the enemy’s rear, trying to starve supply lines. Step down into the well-hidden operations centre of “Nemesis” drone battalion and a hushed, businesslike effort is revealed. Camouflaged material drapes the walls. The unit flag bears the black-and-white logo of a sci-fi alien face. Pilots and navigators sit together like gamers, clad in T-shirts and armed with controllers, hunting for targets well behind the front, in Russian-controlled territory. On screen, a road bridge comes into view, spanning a lush tributary. A Russian lorry already burns there, and the drone settles itself between some trees, waiting for another to pass by.</p>
-<p>In these open hunting grounds it can be difficult to spot military traffic, as the Russians use civilian lorries. “We never hit the cabs,” claims Robert “Magyar” Brovdi, the bearded commander of the Unmanned Systems Force, a group of dedicated drone specialists that includes Nemesis. They have been using these tactics to try to isolate Russian-occupied Crimea. Magyar explains the campaign from his basement suite, which features a Metallica pinball machine and a coffee-table copy of “On War” by Carl von Clausewitz. “Crimea is the jewel in Russia’s crown,” he says, describing how Ukraine’s efforts weakened Russia’s forces, especially early on. Since then, the Russians have adapted defensively, patrolling the same beats with mobile anti-drone units, and with a far higher density of communications jammers.</p>
-<p>Now the enemy forces are building equivalent offensive operations of their own. Piloted drones at this range most often rely on a satellite-based data connection. For Ukraine, it is Starlink. Troublingly, Russia has developed local jamming techniques and is rushing to establish a copycat constellation called Rassvet. In the meantime Russia is using a “mesh” network of radio relays between drones. They base it around long-range Geran drones, more commonly called the Shahed, after their Iranian-designed parent. These relays can reach only about 200km into Ukrainian air space, but within that range piloted drones can hunt moving targets, not just home in on pre-set co-ordinates.</p>
-<p>Trains are a favoured target. Previously attacks focused on stationary trains that were carrying military materiel. Now the Russians are coming after all locomotives, including city commuter services and, recently, a railway station close to the border with Poland. The head of Ukraine railways, Oleksandr Pertsovsky, speaking from his own command centre, says his trains are in essence “swimming with sharks”.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/583459f6d0551c0323d4734ed69e65a7.png"/></p>
-<p>Then there is Russia’s progress with long-range attacks. Ukraine’s deep strikes (see chart 1) against Russian oil refineries and logistics centres belonging to Wildberries, an e-tailer, have impressed some. But Russia is striking inside Ukraine with greater reach and at a vastly greater scale (see map).</p>
-<p>Two further dismaying developments are helping Russia along. The first is that old propeller-driven Shaheds are being replaced by ones powered by jet engines, probably imported from China. Ukraine’s ground-based defences—mostly machineguns and shoulder-fired missiles—can barely cope with such swifter, higher-flying assailants. Fighter aircraft, such as Ukraine’s F-16s and MiG-29s, can destroy them, but they lack ammunition or, being older second-hand models, are often abroad for expert maintenance.</p>
-<p>That leaves ground-based interceptors, but Ukraine lacks the sort to do the job. Sacrificial quadcopter drones cannot catch the jet-powered Shaheds. Prototypes have been devised to meet the challenge. One test-launch video shows something closer to a missile than a drone. That is a big demand on testing and engine design. It raises unit costs. Even if rushed into service (unlikely before winter), boosting production will take hefty financing and at least six months. By contrast, Russia’s production target for jet Shaheds is reportedly 24,000 for 2026; a Ukrainian source suggests they have used only 1,000 so far.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/99a31fd31822c9f763c4edaecb69504d.png"/></p>
-<p>The second development is Russia speeding up its production of ballistic missiles. By one estimate it can launch over 100 of all types every month. Ukraine has little answer, especially given its very low stocks of American Patriot interceptors.</p>
-<p>Ukraine is trying to build a home-grown equivalent to the Patriot, based on a ballistic missile being developed by Fire Point, a local firm. But it is unlikely to produce anything usable for a long time, perhaps several years. This is even trickier than hunting jet Shaheds. Intercepting a ballistic missile requires marrying complex radars, data uplinks and hypersensitive missile guidance. Ukraine’s mil-tech industry is growing in leaps and bounds, but it cannot solve this within months. Nor does Ukraine have the leeway—in particular, access to Starlink inside Russian-held territory—to “strike the archer” (that is, the mobile launchers) rather than the arrow.</p>
-<p>So Ukraine’s war prospects are mixed. Soldiers, whether in subterranean command centres near the kill zone or sipping tea in city cafés, say they can hold firm at the front. Under a youthful new commander-in-chief, Mykhailo Drapatyi, “This is no longer a small Soviet army fighting a big Soviet army,” says Oleksiy Honcharuk, a former prime minister who now chairs Nemesis’s expert council. They do not fear another round of Russian troop mobilisation either, as many in Kyiv do. “More Russians to kill,” one coldly concludes. But the same officers are troubled by the wider overall fight across Ukraine.</p>
-<p>For four-and-a-half years front-line heroism and air defences had kept Ukraine’s main cities running. A resilient domestic economy had provided the government with tax revenue and given citizens a sense of normality. Russia’s latest phase of total war has ended that.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/34d5e4d31ac5b4244f707c514fc2d72c.png"/></p>
-<p>Ukraine is short of money. Its military materiel bills are rising. Direct Western funds for the armed forces are too little to meet this year’s needs. Russian weapons are tearing through a number of Ukraine’s largest corporate taxpayers. They have shut down massive steel plants in cities like Kryvyi Rih and Zaporizhia; steel output in August was 60% lower than a year ago (see chart 2); this month will be worse. Supermarkets, e-commerce and the postal service have been hit hard, with warehouse capacity in the capital down by as much as 80%. On the road from Kyiv towards the front, this is plain to see. Petrol stations have green barrier nets and sandbag bastions around storage tanks. Warehouses lie agape, blackened by explosions.</p>
-<p>Russia is also seeking to choke Ukraine’s ability to move goods and people. Strikes on the railways have destroyed more than 250 locomotives this year alone; that damage has been mitigated by repairs, but the rail network could come under severe strain later this year. Petrol stations are bombed daily, with those that fuel lorries quickly singled out.</p>
-<p>Most damaging of all, Russia in effect closed Ukraine’s deep seaports in Odessa in July. That has meant a significant share of this year’s harvest risks going unshipped; last year Ukraine’s agricultural exports accounted for more than 10% of Ukraine’s GDP (see chart 3). With domestic prices depressed and storage likely to fill up by December, some of Ukraine’s biggest agriculture outfits are questioning whether to plant at all next season.</p>
-<p>All this is before the winter hits. In some respects, Ukraine is better prepared than it has ever been to cope with the Russian onslaught. Its energy infrastructure, long a favoured target for Russia, has been hardened with Western help. Even so, Russian strikes will occasionally cause huge power cuts, probably more than last year. Several large cities, especially Kyiv, are especially vulnerable since they depend on large central-heating plants that are impossible to protect fully. If, as last year, local power generation is destroyed, Kyiv could become an electrical island, dependent on a handful of fragile choke points. One is the large 750kv substation in Makariv, west of the city. With that node working, Kyiv would get roughly 16 hours of daily electricity; without it, perhaps only four.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ecbc8754770a705930fa1cb2becdd38c.png"/></p>
-<p>Last winter, whole districts survived weeks in freezing temperatures after Russia destroyed nearby heating plants. This year, the fear is also that food, water and especially sewerage will be messed up. “This city can collapse,” says a Western diplomat. A Ukrainian official expects “absolute hell” by October. “They will torment Kyiv,” he says. Russian propaganda campaigns will seek to divide and enrage the people. “They will use fatigue, exhaustion and other factors to try to create a tragedy.”</p>
-<p>The unease is palpable. Since the appearance of jet drones in the city on August 27th, daily life has been interrupted. Businesses are closing several times a day during air-raid alerts. Commuters are stranded when the metro and buses stop. Schools are sending kids home or moving classes underground; others are considering closing for the winter. Parents debate the possibility of sending children to western parts of the country—or even abroad. Every family that leaves reduces the tax base and labour force, already depleted by roughly a million people serving and a similar number hiding to avoid the draft.</p>
-<p>It is not all bad news. The increasingly home-made weaponry is giving the economy a leg up. Almost half of Ukraine’s top-20 taxpayers are military-technology firms. These firms are also decentralised and harder to hit. In time, they may become the new export champions.</p>
-<p>But the wartime economy is starting to show signs of stress. Falling export earnings will put pressure on the hryvnia, which could force the central bank to burn through some of its reserves, currently at just under $50bn, to stabilise the currency—or raise interest rates.</p>
-<p>On September 12th Serhiy Koretskiy, the new prime minister, estimated that just the first few weeks of the Russian surge would deprive the government of 70bn hryvnia ($1.6bn) in tax revenue. That comes on top of higher military spending. In August Mr Zelensky surprised European backers by asking for help to fill a $27bn hole in the military budget. Analysts at Dragon Capital, an investment firm, have raised their overall deficit forecast for this year by $4bn-9bn. Next year looks no better. The finance minister, Sergii Marchenko, says Ukraine in 2027 Ukraine will need $32.6bn in foreign finance more than what has already been promised.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/7a19fa2ae79452cdc0dd74d176e14b3e.png"/></p>
-<p>Western, mostly European, partners have been helping (see chart 4). Over this year and next, the EU is lending Ukraine €90bn ($104bn) to fund the budget deficit and weapons purchases. Some of the funds are stuck because Ukraine’s parliament has yet to pass reforms that donors have demanded in return. That puts the process at the mercy of Ukraine’s increasingly waspish politics.</p>
-<p>The president’s ability to push through the legislation may depend on whether David Arakhamia, his wheeler-dealer faction chief and peace negotiator, can retain influence over the MPs. But some speculate that Mr Arakhamia may himself be in the sights of Ukraine’s increasingly assertive anti-corruption bodies.</p>
-<p>One official believes the “moral heat” of a difficult winter will concentrate minds. “What choice do we have?” The focus on survival has certainly helped Ukraine defy the odds before. As Russia reverts to an even dirtier way of waging war, Ukraine will need money to defy the odds once more. More than anything they will need grit—just as they always have. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Briefing</strong><br/><br/>俄罗斯已进入全面战争的新阶段 简报 | 帝国反击  2026年9月17日 基辅的生活正遭到全新的、剧烈的扰乱。警报声和预告空袭的应用程序尖叫声四处可闻。加油站、火车站、购物中心、办公楼和公寓楼的爆炸声成为持续不断的背景音。有报道称，新的家庭外流潮正从首都涌向西部较安全的地区。首都的乌克兰人此前已习惯了战时生活的变迁——空袭警报、导弹、停电以及因俄罗斯攻击发电厂而导致的严寒——即便并非完全无动于衷。但八月底喷气式“沙赫德”无人机的大规模到来，以及俄罗斯导弹命中次数的上升，带来了新一层的恐惧与破坏。俄罗斯增强的纵深打击能力，加上乌克兰拦截武器的匮乏，再次将前线拉近到了基辅民众的身边。《经济学人》的...]]></description>
+      <content:encoded><![CDATA[<h2>俄罗斯已进入全面战争的新阶段</h2>
+俄罗斯已进入全面战争的新阶段 简报 | 帝国反击 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/9b1f2a06d1c4fba1296c61ddf5c87633.jpg"/> 2026年9月17日 基辅的生活正遭到全新的、剧烈的扰乱。警报声和预告空袭的应用程序尖叫声四处可闻。加油站、火车站、购物中心、办公楼和公寓楼的爆炸声成为持续不断的背景音。有报道称，新的家庭外流潮正从首都涌向西部较安全的地区。首都的乌克兰人此前已习惯了战时生活的变迁——空袭警报、导弹、停电以及因俄罗斯攻击发电厂而导致的严寒——即便并非完全无动于衷。但八月底喷气式“沙赫德”无人机的大规模到来，以及俄罗斯导弹命中次数的上升，带来了新一层的恐惧与破坏。俄罗斯增强的纵深打击能力，加上乌克兰拦截武器的匮乏，再次将前线拉近到了基辅民众的身边。《经济学人》的一个团队在最近一次乌克兰的报道行程中，目睹了战争的新阶段如何在肉体、心理、经济和政治上给乌克兰带来压力。你们的记者还了解到，与攻击无人机的近距离遭遇已变得多么平常；他们曾在某个前线城市的街道上，近到足以感受到无人机爆炸的冲击。即使在爆炸发生之前，抬头凝视“沙赫德”无人机那黑色三角外形，看着它在头顶呼啸盘旋，也是一种令人心神不宁的体验。尚不清楚乌克兰能从外交中获得何种喘息。本月初，唐纳德·特朗普的特使——史蒂夫·维特科夫和贾里德·库什纳——对乌克兰首都进行了首次访问。此行之前，他们在莫斯科听取了弗拉基米尔·普京的简报；这两位美国人在那里已成为某种常客。了解两人与弗拉基米尔·泽连斯基长时间会谈的消息人士表示，未来几周内可能会提出一项有限技术安排的提议。特朗普先生热衷于将全球柴油价格高涨归咎于乌克兰对俄罗斯的袭击（而非他自己在伊朗的战争）。在俄罗斯9月20日国家杜马选举这场闹剧之后、以及美国11月中期选举之前，可能存在一个讨论的窗口。特朗普先生可能希望向选民吹嘘，他已达成一项聚焦黑海的协议，以缓解俄罗斯石油以及俄乌两国谷物被阻塞的出口。涉及美国、俄罗斯和乌克兰的三方会谈可能会于十月初在阿布扎比举行。所有这些都将受到欢迎——而乌克兰手中也握有一些牌。欧盟团结在其身后。美国也绝无可能推动达成去年安克雷奇峰会上提出的那种完全亲俄的解决方案（“阿拉斯加已经死了，”基辅一位高级官员微笑着说）。但指望达成更广泛的和平或停火，则纯属幻想。普京先生最早也要到明年春天之前才会同意暂停攻势。乌克兰将继续战斗，并继续给俄罗斯造成巨大痛苦。在前线及其后方200公里的区域内，可以说乌方占据上风。领土争夺并非静止不动，但显然并未按普京先生的意愿推进——今年净增或许100平方公里，仅占乌克兰2014年前领土的0.017%。一位乌克兰消息人士称，已确认的俄军阵亡人数为60万，并估计乌克兰每月正杀死2.2万至2.3万俄军。再加上重伤者，俄军损失可能已超过目前每月3万至3.1万的招募速度。（乌克兰消息人士还担心朝鲜的增援部队正在赶来。） <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/76cb8d93f957c932e8ce0f19fb3bea67.jpg"/> 这场战争并非纯粹的僵局。地图上的静止掩盖了一场创新与适应的达尔文式斗争。而在无人机和导弹的时代，前线后方的命运平衡也至关重要。在这里，即远程打击战中，乌克兰陷入了困境。进入冬季，俄罗斯在远程武器的生产和技术方面都占据领先地位。战争曾经分为前线胶着的战线和后方疲惫但大体安全的城市，如今无人机的创新正在模糊这一界限。战斗区域的起点和终点变得越来越难以界定。以“前线”本身为例。它并非由连绵的战壕线组成，而是一条宽达40至80公里的争夺地带，通常被称为“杀戮区”，在那里一切移动都充满危险。士兵一旦被发现，无论昼夜，空中都会布满小型远程操控的第一人称视角（FPV）猎杀无人机。一名乌克兰士兵描述，俄军已用卸掉车门的轻快吉普车替换装甲车，以便更快跳车。“有时他们背着所有装备徒步走20公里，这样听到无人机声音时更容易躲藏。”但士兵不能仅靠耳朵来获得预警。“伏击无人机”埋伏在已知路线上，有时在屋顶或灌木丛后，突然升起发动袭击。双方都转而使用机器人车辆，来回运送装备、食物和水或弹药。与这类机器骡子同行的士兵知道，无人机可能会俯冲摧毁它——以及他们自己。双方都在将无人机操作得越来越深入敌方后方，试图扼杀补给线。走进“复仇女神”无人机营隐蔽良好的作战中心，你会看到一种安静而高效的工作状态。伪装网覆盖着墙壁。该部队的旗帜上印着黑白相间的科幻外星人面孔标志。飞行员和导航员像游戏玩家一样坐在一起，身穿T恤，手持控制器，在前线后方俄控领土内搜寻目标。屏幕上，一座公路桥出现在视野中，横跨一条葱郁的支流。一辆俄罗斯卡车已在那里燃烧，无人机在树丛间就位，等待下一辆经过。在这些开阔的猎场中，很难识别军事车辆，因为俄军使用民用卡车。“我们从不攻击驾驶室，”留着大胡子的“马扎尔”·罗曼·布罗夫迪声称。他是无人系统部队的指挥官，这是一支由专业无人机专家组成的部队，“复仇女神”营也隶属其中。他们一直在用这些战术试图孤立俄占克里米亚。马扎尔在他地下室套间里解释了这场战役——房间里有一台金属乐队的弹球机和一本放在茶几上的克劳塞维茨《战争论》。“克里米亚是俄罗斯王冠上的明珠，”他说，并描述了乌克兰的努力如何削弱了俄军，尤其是在战争初期。此后，俄军进行了防御性调整，用机动反无人机部队以及密度高得多的通信干扰器在相同区域巡逻。现在，敌方正在建立自己的对等攻击行动。这种射程下的有人操控无人机通常依赖基于卫星的数据连接。对乌克兰来说是星链。麻烦的是，俄罗斯已开发出局部干扰技术，并正急于建立名为“黎明”的仿制星座。与此同时，俄罗斯还在无人机之间使用“网状”无线电中继网络。其基础是远程“天竺葵”无人机，通常因其伊朗设计的原型而被称为“沙赫德”。这些中继器只能深入乌克兰领空约200公里，但在这个范围内，有人操控无人机可以猎杀移动目标，而不仅仅锁定预设坐标。火车是首选目标。此前攻击集中在装载军用物资的静止列车上。现在俄军开始攻击所有机车，包括城市通勤列车，最近还袭击了靠近波兰边境的一个火车站。乌克兰铁路负责人亚历山大·佩尔佐夫斯基在自己的指挥中心表示，他的列车本质上是在“与鲨鱼共游”。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/583459f6d0551c0323d4734ed69e65a7.png"/> 此外还有俄罗斯在远程攻击方面的进展。乌克兰对俄罗斯炼油厂以及电商公司野莓物流中心的纵深打击（见图表1）给一些人留下了深刻印象。但俄罗斯在乌克兰境内进行的打击，射程更远、规模也大得多（见地图）。两个令人沮丧的新进展正在助长俄罗斯的攻势。第一个是，老式螺旋桨驱动的“沙赫德”正被喷气发动机驱动的型号所取代，这些发动机可能进口自中国。乌克兰的地面防御系统——主要是机枪和肩扛式导弹——几乎无法应对这种更快、飞得更高的攻击者。战斗机，如乌克兰的F-16和米格-29，可以摧毁它们，但缺乏弹药，或者因为是较老的二手型号，常常需要送往国外进行专业维护。这给地面拦截器留下了任务，但乌克兰缺乏能够胜任的型号。牺牲型四旋翼无人机无法追上喷气式“沙赫德”。为应对这一挑战，已设计出原型机。一段试射视频显示，它更像导弹而非无人机。这对测试和发动机设计提出了很高的要求，也推高了单机成本。即使匆忙投入使用（冬天之前不太可能），提高产量也需要巨额资金和至少六个月时间。相比之下，据报道俄罗斯2026年喷气式“沙赫德”的生产目标为2.4万架；一位乌克兰消息人士表示，他们迄今只使用了1000架。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/99a31fd31822c9f763c4edaecb69504d.png"/> 第二个进展是俄罗斯加快了弹道导弹的生产。据一项估计，它每月可发射各类型导弹超过100枚。乌克兰几乎没有应对之策，尤其是考虑到其美国“爱国者”拦截导弹的库存非常低。乌克兰正试图基于本土公司Fire Point正在开发的一种弹道导弹，研制国产的“爱国者”等效系统。但短期内——或许数年内——不太可能产出任何可用成果。这比猎杀喷气式“沙赫德”还要棘手。拦截弹道导弹需要整合复杂的雷达、数据上行链路和超灵敏的导弹制导系统。乌克兰的军事科技产业正在飞速发展，但无法在几个月内解决这个问题。乌克兰也没有足够的余地——尤其是在俄控领土内使用星链的权限——去“攻击射手”（即机动发射装置）而非拦截箭矢。因此，乌克兰的战争前景喜忧参半。无论是在杀戮区附近的地下指挥中心，还是在城市咖啡馆里喝茶，士兵们都说他们能在前线坚守。在前总理阿列克西·洪恰鲁克看来，在年轻的新任总司令米哈伊洛·德拉帕特领导下，“这已不再是一支小苏军对抗一支大苏军”。洪恰鲁克现任“复仇女神”营专家委员会主席。他们也不像许多基辅人那样担心俄罗斯再次动员。“更多俄军来送死，”一人冷冷地总结道。但同样的军官们也对整个乌克兰境内更广泛的战事感到不安。四年半来，前线的英勇和防空系统使乌克兰的主要城市得以运转。有韧性的国内经济为政府提供了税收，也给公民带来了某种正常感。俄罗斯最新的全面战争阶段终结了这一切。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/34d5e4d31ac5b4244f707c514fc2d72c.png"/> 乌克兰缺钱。其军事物资账单正在上升。西方对乌克兰武装部队的直接资金不足以满足今年的需求。俄罗斯的武器正在重创乌克兰一些最大的企业纳税人。它们已关闭了在克里维里赫和扎波罗热等城市的大型钢铁厂；八月份钢铁产量比一年前下降了60%（见图表2）；本月将会更糟。超市、电子商务和邮政服务受到严重打击，首都的仓储能力下降了多达80%。从基辅通往前线的路上，这一点显而易见。加油站的储油罐周围有绿色防护网和沙袋堡垒。仓库洞开，被爆炸熏得焦黑。俄罗斯还试图掐断乌克兰运送货物和人员的能力。仅今年一年，对铁路的打击就摧毁了250多台机车；维修工作缓解了损失，但铁路网络可能在今年晚些时候面临严重压力。加油站每天都遭到轰炸，为卡车加油的站点很快就会被盯上。最具破坏性的是，俄罗斯在七月份实际上关闭了乌克兰在敖德萨的深水海港。这意味着今年收成的很大一部分面临无法装运的风险；去年，乌克兰的农产品出口占其GDP的10%以上（见图表3）。由于国内价格低迷且仓储可能在12月前爆满，乌克兰一些最大的农业企业正在质疑下个季节是否还要播种。这一切都发生在冬季来临之前。在某些方面，乌克兰应对俄罗斯猛攻的准备比以往任何时候都充分。其能源基础设施长期以来一直是俄罗斯偏爱的目标，现已在西方帮助下得到加固。即便如此，俄罗斯的打击仍会偶尔造成大规模停电，可能比去年更多。几个大城市，尤其是基辅，尤其脆弱，因为它们依赖无法完全保护的大型集中供暖厂。如果像去年一样，当地发电设施被摧毁，基辅可能成为电力孤岛，依赖少数几个脆弱的咽喉节点。其中之一是城市以西马卡里夫的大型750千伏变电站。如果该节点运转，基辅每天大约能有16小时供电；如果没有它，可能只有4小时。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ecbc8754770a705930fa1cb2becdd38c.png"/> 去年冬天，在俄罗斯摧毁附近供暖厂后，整个城区在严寒中存活了数周。今年的担忧还包括食品、水，尤其是下水道系统会被搞乱。“这座城市可能会崩溃，”一位西方外交官说。一位乌克兰官员预计到十月份将是“彻底的炼狱”。“他们会折磨基辅，”他说。俄罗斯的宣传攻势将试图分裂和激怒民众。“他们会利用疲惫、衰竭和其他因素，试图制造一场悲剧。”不安情绪显而易见。自8月27日喷气式无人机出现在该市以来，日常生活一直被打断。空袭警报期间，企业一天要关闭数次。地铁和公交车停运时，通勤者被困。学校正在送孩子回家或将课堂转移到地下；另一些学校则考虑在冬季关闭。家长们讨论把孩子送到乌克兰西部——甚至国外的可能性。每个离开的家庭都在减少税收基础和劳动力，而这两者本已因约一百万人参军和类似数量的人躲避征兵而枯竭。并非全是坏消息。日益本土化的武器生产正在提振经济。乌克兰前20大纳税人中，近一半是军事科技公司。这些公司也较为分散，更难被击中。假以时日，它们可能成为新的出口冠军。但战时经济正开始显现压力迹象。出口收入下降将给格里夫纳带来压力，这可能迫使中央银行消耗部分储备（目前略低于500亿美元）来稳定货币——或者提高利率。9月12日，新总理谢尔盖·科列茨基估计，仅俄罗斯攻势的最初几周就将使政府损失700亿格里夫纳（16亿美元）的税收收入。这还在更高军事开支之外。八月份，泽连斯基先生请求帮助填补270亿美元军事预算缺口，令欧洲支持者感到意外。投资公司Dragon Capital的分析师已将今年的总体赤字预测上调了40亿至90亿美元。明年看起来也不会更好。财政部长谢尔盖·马尔琴科表示，乌克兰在2027年将需要比已承诺的数额多出326亿美元的外部资金。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/7a19fa2ae79452cdc0dd74d176e14b3e.png"/> 西方（主要是欧洲）伙伴一直在提供帮助（见图表4）。在明后两年，欧盟将向乌克兰提供900亿欧元（1040亿美元）贷款，用于资助预算赤字和武器采购。部分资金被搁置，因为乌克兰议会尚未通过捐助方要求作为回报的改革。这使得该进程受制于乌克兰日益尖刻的政治。总统推动立法通过的能力，可能取决于其长袖善舞的党派领袖兼和谈代表达维德·阿拉哈米亚能否保持对议员们的影响力。但有人猜测，阿拉哈米亚先生本人可能正成为乌克兰日益强势的反腐败机构的关注对象。一位官员认为，艰难冬季的“道德热度”将促使人们集中注意力。“我们还有什么选择？”对生存的专注无疑曾帮助乌克兰战胜不利局面。随着俄罗斯回归一种更加肮脏的战争方式，乌克兰将需要资金再次战胜不利局面。最重要的是，他们需要坚韧——正如他们一贯所需。■]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-012</guid>
       <category>Briefing</category>
       <pubDate>Fri, 18 Sep 2026 17:32:01 +0000</pubDate>
@@ -446,34 +370,11 @@ A MAKESHIFT CHECKPOINT holds up bikes, business and lives. Along a village road 
       <pubDate>Fri, 18 Sep 2026 11:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Unemployment is becoming a way of life for China’s young</title>
+      <title>失业正成为中国年轻人的一种生活方式</title>
       <link>https://www.economist.com/d047b314-fb58-4a61-b31c-abc7971d95c7.html</link>
-      <description><![CDATA[<strong>China</strong><br/><br/>China | Who needs a real job?
-
-
-
-
-Sep 17th 2026
-FEW COULD have predicted the fallout last month after Xingyu Automotive Lighting, a big car-parts maker in eastern China, decided it had hired too many people over the summer. The company gave an ultimatum to some 140 fresh graduates who had been emplo...]]></description>
-      <content:encoded><![CDATA[<h2>Unemployment is becoming a way of life for China’s young</h2>
-<p><span class="te_section_title">China</span><span class="te_fly_span"> | Who needs a real job?</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/bc02d318b0c85330025a4e27f7f564aa.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>FEW COULD have predicted the fallout last month after Xingyu Automotive Lighting, a big car-parts maker in eastern China, decided it had hired too many people over the summer. The company gave an ultimatum to some 140 fresh graduates who had been employed there for just a few weeks: either resign with half a month’s salary or pick up a screwdriver and take a poorly paid job on the factory floor. More than 100 chose to leave. In China, where worker-protection laws are feeble, sudden lay-offs of this sort are nasty, but hardly unheard of.</p>
-<p>Yet when the news became public, it sparked an unusual outpouring of outrage. The People’s Daily, a Communist Party mouthpiece, slammed the company for “trampling on society’s trust”. Volkswagen, a German carmaker supplied by Xingyu, said it was investigating the dismissals. As the pressure built, the company apologised, then fired its head of human resources and cut some of its executives’ salaries as an act of contrition.</p>
-<p>Why the fuss? The lay-offs tapped into a deep well of public sympathy for China’s young people. They are struggling in a brutal job market that has upended people’s expectations of what it takes to succeed in China. A decade ago a university degree was still a ticket to a decent career. But a record 12.7m graduated this year, nearly 500,000 more than last year and twice the number that did so a decade ago. Demand for these young workers, meanwhile, has plummeted amid a property-market slump and flagging consumption. And despite government attempts to fix it, the problem is becoming only more entrenched.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/fbf9ea6f956a1d4575d391529fd6d9e3.png"/></p>
-<p>When China’s official gauge of youth unemployment reached 20% in 2023, it caused so much alarm that officials suspended the data series and, after a few months, started releasing an “optimised” (and much lower) rate, based on a different methodology. But this summer even the adjusted rate has been creeping up towards 20% as well (see chart). Officials have already ordered state-owned companies to hire more graduates. They will be hoping that Xingyu’s humiliation will prompt private companies also to take note, says Jenny Chan, a sociologist at the Hong Kong Polytechnic University.  She says the government wants everyone to “share the national responsibility” and avoid lay-offs if at all possible.</p>
-<p>The industries that once soaked up a lot of young people are now struggling. A <a data-id="584321eb-8cbe-4ec0-b49a-f26fa9fff2f2" data-type="ARTICLE" href="https://www.economist.com/china/2026/09/14/chinas-tutoring-crackdown-has-created-a-black-market">regulatory crackdown</a> has destroyed hundreds of thousands of tutoring jobs. Chinese entertainment companies, meanwhile, are rapidly adopting artificial intelligence to churn out shows without the need for actors or producers. Tech companies are quietly laying off engineers. And China’s vast gig economy, once a reliable last resort for jobseekers, is now overstuffed with underemployed drivers, so average earnings have slumped.</p>
-<p>Years of high youth unemployment are starting to reshape Chinese society. This intensely competitive country places a higher value on hard work than most. But now many young people are getting used to the fact that no one wants their labour. Some have dropped out of the rat race altogether and say they are now “lying flat”, or giving up finding a job until the economy improves. Others have become self-described “full-time children”, staying at home to cook and clean for their parents for pocket money.</p>
-<p>Those who cannot cope with so much family time can at least pretend to go to work. Since last year, offices have been set up in several cities across China by firms with names like “The Pretend to Work Company”. For a small daily fee of 30 yuan ($4.50) or so, people can sit at a desk, hang out by the office water cooler, and enjoy the routine of office life as they submit job applications (or scroll on their phones).</p>
-<p>Public libraries are another favoured place for the pretend workforce to hang out. On a recent Thursday afternoon the tables in Beijing’s Capital Library, one of the city’s biggest, were packed with young folk. Some were polishing CVs; others playing computer games. “There’s loads of pretend workers around here,” said one man in a T-shirt and shorts who had been laid off from a tech firm six months ago. For his part, he said he was taking a voluntary break from full-time employment to work on some of his own software projects. And read a lot more books. <span class="span_ufinish">■</span></p>
-<p>Subscribers can sign up to <a href="https://www.economist.com/newsletters/drum-tower" rel="noopener" target="_blank">Drum Tower</a>, our new weekly newsletter, to understand what the world makes of China—and what China makes of the world.</p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>China</strong><br/><br/>失业正成为中国年轻人的一种生活方式 中国 | 谁还需要一份真正的工作？  2026年9月17日 上个月，中国东部大型汽车零部件制造商星宇车灯决定自己在夏季招聘了太多人手，之后发生的事几乎无人能预料。该公司向约140名刚入职仅数周的应届毕业生发出最后通牒：要么拿半个月工资辞职，要么拿起螺丝刀到工厂车间干一份低薪工作。超过100人选择了离开。在中国，劳动者保护法律薄弱，此类突然裁员虽令人厌恶，但并非闻所未闻。然而，当消息公开后，却引发了异乎寻常的愤怒浪潮。共产党喉舌《人民日报》抨击该公司“践踏社会信任”。星宇的客户、德国汽车制造商大众表示正在调查此事。随着压力不断增大，该公司道歉，随后解雇了人力资...]]></description>
+      <content:encoded><![CDATA[<h2>失业正成为中国年轻人的一种生活方式</h2>
+失业正成为中国年轻人的一种生活方式 中国 | 谁还需要一份真正的工作？ <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/bc02d318b0c85330025a4e27f7f564aa.jpg"/> 2026年9月17日 上个月，中国东部大型汽车零部件制造商星宇车灯决定自己在夏季招聘了太多人手，之后发生的事几乎无人能预料。该公司向约140名刚入职仅数周的应届毕业生发出最后通牒：要么拿半个月工资辞职，要么拿起螺丝刀到工厂车间干一份低薪工作。超过100人选择了离开。在中国，劳动者保护法律薄弱，此类突然裁员虽令人厌恶，但并非闻所未闻。然而，当消息公开后，却引发了异乎寻常的愤怒浪潮。共产党喉舌《人民日报》抨击该公司“践踏社会信任”。星宇的客户、德国汽车制造商大众表示正在调查此事。随着压力不断增大，该公司道歉，随后解雇了人力资源负责人，并削减部分高管薪酬以示悔过。为何如此大惊小怪？这次裁员触动了公众对中国年轻人深深的同情。他们正在残酷的就业市场中挣扎，这个市场颠覆了人们对于在中国取得成功所需条件的预期。十年前，大学文凭仍然是通往体面职业的入场券。但今年有创纪录的1270万毕业生，比去年多出近50万，是十年前的两倍。与此同时，在房地产市场低迷和消费疲软的情况下，对这些年轻劳动者的需求急剧下降。尽管政府试图解决这一问题，但问题只会变得更加根深蒂固。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/fbf9ea6f956a1d4575d391529fd6d9e3.png"/> 2023年中国的官方青年失业率达到20%时，引发了极大恐慌，以至于官员们暂停了该数据序列，并在几个月后开始发布基于不同方法的“优化”后（且低得多）的失业率。但今年夏天，即便调整后的失业率也在逐渐逼近20%（见图表）。官员们已下令国有企业招聘更多毕业生。香港理工大学社会学家陈玉珍表示，他们希望星宇的受辱能促使私营企业也注意到这一点。她说，政府希望所有人“共担国家责任”，尽可能避免裁员。那些曾经吸纳大量年轻人的行业如今举步维艰。监管整顿摧毁了数十万个教培工作岗位。与此同时，中国的娱乐公司正迅速采用人工智能来批量制作节目，不再需要演员或制片人。科技公司正在悄悄裁减工程师。而中国庞大的零工经济，曾经是求职者可靠的最后选择，如今充斥着过剩的就业不足的司机，平均收入因此大幅下降。多年高企的青年失业率正开始重塑中国社会。这个竞争极为激烈的国家比大多数国家更看重勤奋工作。但现在许多年轻人开始习惯于一个事实：没有人需要他们的劳动。有些人干脆退出了激烈竞争，称自己正在“躺平”，或是在经济好转前放弃找工作。另一些人则自称“全职儿女”，待在家里为父母做饭打扫以换取零花钱。那些无法忍受这么多家庭时光的人，至少可以假装去上班。自去年以来，中国多个城市出现了名为“假装上班公司”之类的办公场所。人们每天支付30元（约4.5美元）左右的少量费用，就可以坐在办公桌前，在办公室饮水机旁闲逛，享受办公室生活的日常，同时投递求职申请（或刷手机）。公共图书馆是假装上班族的另一个喜爱去处。最近一个周四下午，北京最大的图书馆之一首都图书馆的桌旁挤满了年轻人。有些人在润色简历；另一些人在玩电脑游戏。“这附近到处都是假装上班的人，”一位穿着T恤短裤、六个月前被科技公司解雇的男子说。他表示，自己是在全职工作中主动休假，专注于一些自己的软件项目，并读更多的书。■ 订阅者可以注册我们的新周报《鼓楼》，以了解世界如何看待中国——以及中国如何看待世界。]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-019</guid>
       <category>China</category>
       <pubDate>Fri, 18 Sep 2026 10:32:01 +0000</pubDate>
@@ -846,59 +747,29 @@ Arriving at his press conference in July last year, Nhlanhla Mkhwanazi made a st
       <pubDate>Thu, 17 Sep 2026 16:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Turkey defies European orders to free political prisoners</title>
+      <title>土耳其无视欧洲命令，拒绝释放政治犯</title>
       <link>https://www.economist.com/4c843d95-b803-491d-8005-7826add11ade.html</link>
-      <description><![CDATA[<strong>Europe</strong><br/><br/>Europe | Imprisoner’s dilemma
-
-
-
-
-Sep 17th 2026
-ONE GOOD way to discourage political dissent is to single out inoffensive activists for cruel punishment. In 2013 Osman Kavala, a businessman who ran a charity supporting cultural heritage, took part in protests against a construction project in Istanb...]]></description>
-      <content:encoded><![CDATA[<h2>Turkey defies European orders to free political prisoners</h2>
-<p><span class="te_section_title">Europe</span><span class="te_fly_span"> | Imprisoner’s dilemma</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/b51333d5ccce4773c7511f35d83f131b.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>ONE GOOD way to discourage political dissent is to single out inoffensive activists for cruel punishment. In 2013 Osman Kavala, a businessman who ran a charity supporting cultural heritage, took part in protests against a construction project in Istanbul’s Gezi Park. He was arrested four years later amid a widening crackdown, and sentenced in 2022 to life in prison without parole. On August 25th the European Court of Human Rights (ECHR) ordered Turkey to free him. Instead, the country might walk away from Europe’s human-rights system altogether.</p>
-<p>As a party to the European Convention on Human Rights, Turkey is legally bound by the court’s judgments. But it has refused to implement two earlier orders to free Mr Kavala. This time the court in Strasbourg went further, ruling that Turkey has a “systemic problem of prosecution and imprisonment of human-rights defenders, political opponents and journalists”. The evidence that he had “attempted to overthrow the government” was wanting: prosecutors had noted his purchase of pastries and provision of a picnic table for protesters. In imprisoning him, the ECHR found, Turkish authorities were trying to stifle pluralism and political debate.</p>
-<p>When Turkey flouted the court’s orders to free Mr Kavala in 2019 and 2022, Western governments criticised it. But the country’s crucial roles in NATO and in holding back migration into Europe have come to outweigh such concerns. President Recep Tayyip Erdogan has become “too important for European countries to exert pressure on him”, says Gonul Tol of the Middle East Institute, a think-tank in Washington. He is now using that freedom to launch a crackdown against gay-rights advocates. Since September 13th police have raided the offices of LGBT groups and detained more than a hundred protesters.</p>
-<p>Europe could still try diplomatic outreach, or even suspend Turkey’s vote in the Council of Europe, the continent’s main human-rights body. But that might just prompt Turkey to leave. In a post on X after the ECHR’s ruling, Mehmet Ucum, Mr Erdogan’s chief legal adviser, said the country might reconsider its membership, or block Turkish citizens from petitioning the court. Turkey’s justice ministry did not respond to a request for comment.</p>
-<p>For those caught up in political prosecutions, the ECHR offers one of the few remaining routes of redress. Its findings in Mr Kavala’s case of systematic interference in Turkey’s justice system can be applied to upcoming cases, including that of Ekrem Imamoglu, the mayor of Istanbul who was arrested after deciding to run against Mr Erdogan for the presidency.</p>
-<p>Turkey has a face-saving way out. Its constitutional court could take up Mr Kavala’s appeals, allowing Turkey to comply through its own courts rather than obey an order from abroad. Turkish authorities said after the ruling that Mr Kavala could reopen his case at home. Should that route fail, Riza Turmen, a former ECHR judge, worries that the stakes will rise higher. Abandoning the convention would mean severing one of Turkey’s longest institutional links to the West. “It would no longer be a modern democratic state governed by the rule of law,” he says. “Even if that’s only on paper.”<span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Europe</strong><br/><br/>土耳其无视欧洲命令，拒绝释放政治犯 欧洲 | 囚徒困境  2026年9月17日
+遏制政治异见的一个好办法，就是挑出那些无害的活动人士，施以残酷惩罚。2013年，经营一家支持文化遗产的慈善机构的商人奥斯曼·卡瓦拉，参加了伊斯坦布尔盖齐公园反对一项建筑工程的抗议活动。四年后，在日益扩大的镇压中，他被捕，并于2022年被判处无期徒刑且不得假释。8月25日，欧洲人权法院命令土耳其释放他。然而，土耳其非但不服从，反而可能彻底退出欧洲人权体系。
+作为《欧洲人权公约》的缔约国，土耳其在法律上有义务遵守该法院的判决。但土耳其此前已两次拒绝执行释放卡瓦拉的命令。这一次，斯特拉斯堡的法院更进一步，裁定土耳其存在“...]]></description>
+      <content:encoded><![CDATA[<h2>土耳其无视欧洲命令，拒绝释放政治犯</h2>
+土耳其无视欧洲命令，拒绝释放政治犯 欧洲 | 囚徒困境 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/b51333d5ccce4773c7511f35d83f131b.jpg"/> 2026年9月17日
+<p>遏制政治异见的一个好办法，就是挑出那些无害的活动人士，施以残酷惩罚。2013年，经营一家支持文化遗产的慈善机构的商人奥斯曼·卡瓦拉，参加了伊斯坦布尔盖齐公园反对一项建筑工程的抗议活动。四年后，在日益扩大的镇压中，他被捕，并于2022年被判处无期徒刑且不得假释。8月25日，欧洲人权法院命令土耳其释放他。然而，土耳其非但不服从，反而可能彻底退出欧洲人权体系。</p>
+<p>作为《欧洲人权公约》的缔约国，土耳其在法律上有义务遵守该法院的判决。但土耳其此前已两次拒绝执行释放卡瓦拉的命令。这一次，斯特拉斯堡的法院更进一步，裁定土耳其存在“对人权捍卫者、政治反对派和记者进行系统性起诉和监禁的问题”。卡瓦拉“企图推翻政府”的证据不足：检察官注意到他曾为抗议者购买糕点并提供野餐桌。欧洲人权法院认为，土耳其当局监禁他，是为了压制多元化和政治辩论。</p>
+<p>2019年和2022年，当土耳其无视法院释放卡瓦拉的命令时，西方政府曾予以批评。但土耳其在北约中的关键作用以及阻止移民涌入欧洲的角色，已使这些担忧相形见绌。华盛顿智库中东研究所的格努尔·托尔表示，总统雷杰普·塔伊普·埃尔多安已经变得“对欧洲国家而言过于重要，以至于他们无法对他施加压力”。他现在正利用这种自由，对同性恋权利倡导者发起镇压。自9月13日以来，警方已突击搜查了LGBT团体的办公室，并拘留了一百多名抗议者。</p>
+<p>欧洲仍可尝试外交接触，甚至暂停土耳其在欧洲委员会（欧洲大陆主要人权机构）中的投票权。但这可能只会促使土耳其退出。在欧洲人权法院裁决后，埃尔多安的首席法律顾问穆罕默德·乌楚姆在X平台上发帖称，土耳其可能会重新考虑其成员国身份，或阻止土耳其公民向该法院申诉。土耳其司法部未回应置评请求。</p>
+<p>对于陷入政治起诉的人来说，欧洲人权法院是仅存的少数救济途径之一。其在卡瓦拉案中关于土耳其司法系统受到系统性干预的裁定，可适用于未来的案件，包括伊斯坦布尔市长埃克雷姆·伊马姆奥卢的案件——他在决定与埃尔多安竞选总统后被捕。</p>
+<p>土耳其有一条保全面子的出路。其宪法法院可以受理卡瓦拉的上诉，使土耳其通过本国法院来遵守裁决，而非服从外国的命令。土耳其当局在裁决后表示，卡瓦拉可以在国内重新审理其案件。前欧洲人权法院法官里扎·图尔门担心，如果这条路走不通，事态将升级。放弃公约将意味着切断土耳其与西方之间最悠久的制度纽带之一。“它将不再是一个受法治约束的现代民主国家，”他说，“即使那只是纸面上的。”■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-038</guid>
       <category>Europe</category>
       <pubDate>Thu, 17 Sep 2026 15:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>The AfD could stumble in another state election</title>
+      <title>德国选择党可能在另一个州选举中受挫</title>
       <link>https://www.economist.com/2b5f2f1b-2921-42c4-8593-33c856441d6e.html</link>
-      <description><![CDATA[<strong>Europe</strong><br/><br/>Europe | Manuela the AfD-slayer?
-
-
-
-
-Sep 17th 2026
-IT IS A curious venue for a sober politician. Inside a circus big top in Rostock, a port on Germany’s Baltic coast, Manuela Schwesig, the Social Democratic (SPD) premier of the state of Mecklenburg-Vorpommern, is pitching to the party faithful ahead...]]></description>
-      <content:encoded><![CDATA[<h2>The AfD could stumble in another state election</h2>
-<p><span class="te_section_title">Europe</span><span class="te_fly_span"> | Manuela the AfD-slayer?</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/17a5be447323e3f607927949bb2466d6.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>IT IS A curious venue for a sober politician. Inside a circus big top in Rostock, a port on Germany’s Baltic coast, Manuela Schwesig, the Social Democratic (SPD) premier of the state of Mecklenburg-Vorpommern, is pitching to the party faithful ahead of elections on September 20th. Ms Schwesig offers mild red meat (swipes at oil firms), empathy for voters weathering price rises, and a few personal anecdotes. Yet there is one killer sales pitch. Only voting spd, she says, can “prevent the afd from becoming the strongest force”.</p>
-<p>On September 6th the far-right Alternative for Germany won a spectacular victory in the eastern state of Saxony-Anhalt. It long expected to repeat the feat in “Meck-Pom”. Lilly Blaudszun, Ms Schwesig’s campaign manager, pulls out her phone to display a poll from a year ago showing the spd on just 19%, half the afd score. But Ms Schwesig has staged a dramatic comeback. The spd is now just two percentage points behind the afd (see chart).</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/a697725a4fe3abdc1eeedea7f1851836.png"/></p>
-<p>For that, she can thank the afd bogeyman. An spd poster depicts Ms Schwesig, in socialist red, as “Die Frau gegen blau” (“The woman against blue”), the afd’s colour. By reducing the vote to a two-horse race, Ms Schwesig, in office since 2017, is exploiting her popularity to nab support from other parties, including the Christian Democrats (cdu). Most voters want her to keep her job.</p>
-<p>Once dismissed as a “coastal Barbie”, Ms Schwesig slowly earned a reputation as a Landesmutter, or “mother of the state”, says Jochen Müller at the University of Greifswald. She has overseen modest growth in a poor state. Abroad she is best known for her robust defence of Nord Stream 2, a Russian gas pipeline that came ashore in her state (and was later blown up, allegedly by Ukrainians). In 2021 she even established a foundation designed to circumvent American sanctions, with money from Gazprom. Ms Schwesig now says that was a mistake and stands behind Germany’s support for Ukraine. More recently she has found favour by atttacking the pension reform of the federal government, in which the spd serves as junior partner.</p>
-<p>Even if Ms Schwesig fails to overtake the afd she will probably remain premier, perhaps heading a three-way leftist coalition. That would leave her well placed to inherit the national leadership of the spd, if, as many expect, one or both of its co-chairs steps down after the election in Mecklenburg-Vorpommern and another in Berlin. And if her polarisation tactics push the cdu below the 5% threshold, even Friedrich Merz, the chancellor, could find his job at risk. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Europe</strong><br/><br/>德国选择党可能在另一个州选举中受挫 欧洲 | 曼努埃拉，选择党的克星？  2026年9月17日 对一位清醒的政治家来说，这是一个奇怪的场所。在德国波罗的海沿岸港口罗斯托克的一个马戏团大帐篷里，梅克伦堡-前波莫瑞州的社会民主党（SPD）州长曼努埃拉·施韦西格，正在9月20日选举前向党内忠实支持者发表演讲。施韦西格女士提供了一些温和的煽动性言论（抨击石油公司）、对承受物价上涨的选民的同情，以及一些个人轶事。然而，有一个极具杀伤力的宣传口号。她说，只有投票给社民党才能“阻止德国选择党成为最强大的力量”。9月6日，极右翼的德国选择党在东部萨克森-安哈尔特州取得了惊人的胜利。人们长期以来预计它会在“梅克...]]></description>
+      <content:encoded><![CDATA[<h2>德国选择党可能在另一个州选举中受挫</h2>
+德国选择党可能在另一个州选举中受挫 欧洲 | 曼努埃拉，选择党的克星？ <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/17a5be447323e3f607927949bb2466d6.jpg"/> 2026年9月17日 对一位清醒的政治家来说，这是一个奇怪的场所。在德国波罗的海沿岸港口罗斯托克的一个马戏团大帐篷里，梅克伦堡-前波莫瑞州的社会民主党（SPD）州长曼努埃拉·施韦西格，正在9月20日选举前向党内忠实支持者发表演讲。施韦西格女士提供了一些温和的煽动性言论（抨击石油公司）、对承受物价上涨的选民的同情，以及一些个人轶事。然而，有一个极具杀伤力的宣传口号。她说，只有投票给社民党才能“阻止德国选择党成为最强大的力量”。9月6日，极右翼的德国选择党在东部萨克森-安哈尔特州取得了惊人的胜利。人们长期以来预计它会在“梅克-波姆”重复这一壮举。施韦西格女士的竞选经理莉莉·布劳茨尊掏出手机展示了一年前的一项民调，显示社民党支持率仅为19%，只有德国选择党的一半。但施韦西格女士已经戏剧性地卷土重来。社民党现在仅落后德国选择党两个百分点（见图表）。 <img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/a697725a4fe3abdc1eeedea7f1851836.png"/> 为此，她要感谢德国选择党这个“大恶狼”。一张社民党海报将施韦西格女士描绘成社会主义红色的“对抗蓝色的女人”，蓝色是德国选择党的颜色。通过将选举简化为两强相争，自2017年上任的施韦西格女士正在利用她的人气从其他政党（包括基督教民主联盟（cdu））那里争取支持。大多数选民希望她留任。格赖夫斯瓦尔德大学的约亨·穆勒表示，曾被视为“海岸芭比”的施韦西格女士，逐渐赢得了“州之母”的名声。她管理着一个贫困州的温和增长。在国外，她最为人所知的是坚决捍卫“北溪2号”天然气管道，该管道在她的州上岸（后来据称被乌克兰人炸毁）。2021年，她甚至用俄罗斯天然气工业股份公司的资金成立了一个旨在规避美国制裁的基金会。施韦西格女士现在说那是一个错误，并支持德国对乌克兰的支持。最近，她通过抨击联邦政府的养老金改革而获得青睐，社民党在该政府中担任初级合作伙伴。即使施韦西格女士未能超越德国选择党，她也很可能继续担任州长，或许会领导一个三党左翼联盟。这将使她处于有利地位，有望接任社民党的国家领导层——如果像许多人预期的那样，在该党联合主席之一或两人在梅克伦堡-前波莫瑞州和柏林的选举后下台的话。而如果她的极化策略将基民盟推低至5%的门槛以下，那么就连总理弗里德里希·默茨也可能发现自己的职位岌岌可危。■]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-039</guid>
       <category>Europe</category>
       <pubDate>Thu, 17 Sep 2026 14:32:01 +0000</pubDate>
@@ -982,62 +853,29 @@ Imagine trying to craft the perfect bogeyman to haunt the European imagination. 
       <pubDate>Thu, 17 Sep 2026 11:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Britain’s epidemic of school shirking is shocking, but fixable</title>
+      <title>英国旷课问题惊人，但可以解决</title>
       <link>https://www.economist.com/2dbd08a8-c7ea-4b73-98d2-429858bbd74a.html</link>
-      <description><![CDATA[<strong>Britain</strong><br/><br/>Britain | Absenteeism
-
-
-
-
-Sep 17th 2026
-The holidays are a memory, and school is in full swing. But an alarming number of pupils are staying away. Before covid-19 one in ten children were “persistently absent” from English schools, meaning they missed 10% or more of their lessons. Now nearly one in ...]]></description>
-      <content:encoded><![CDATA[<h2>Britain’s epidemic of school shirking is shocking, but fixable</h2>
-<p><span class="te_section_title">Britain</span><span class="te_fly_span"> | Absenteeism</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/035110b5a6d52b06bb7c3f15be1c712f.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>The holidays are a memory, and school is in full swing. But an alarming number of pupils are staying away. Before covid-19 one in ten children were “persistently absent” from English schools, meaning they missed 10% or more of their lessons. Now nearly one in five are.</p>
-<p>Missing school is costly. The Department for Education calculates that persistently absent students earn £10,000 ($13,500) less per year by age 28 than their peers with near-perfect attendance records. Children who are persistently absent are more likely to end up in prison, take drugs and harm themselves. Britain has more than 1m NEETs—young adults not in education, employment or training—who cost the state over £120bn in benefits and lost output. Their ranks are full of those who were school absentees.</p>
-<p>Although international comparisons are tricky, the data suggest that in much of the OECD, a club of mostly rich countries, the rate of absenteeism remained flat after the covid-19 pandemic. But it rose in English-speaking countries. Britain has a particular problem with severe absence. The proportion of pupils missing more than 50% of classes reached a record high in the 2025-26 school year.</p>
-<p>The causes of persistent absenteeism often lie outside the school gates, says Paul Whiteman of the National Association of Head Teachers. The pandemic closed schools, undermining the long-repeated message that attendance is compulsory. More parents work from home, so no longer need teachers to baby-sit. Home schooling, which is not closely vetted, is increasingly common.</p>
-<p>Poverty plays a part: poor children are much more likely to be severely absent. Over 1m young Britons are estimated to have no bed to themselves. They may go to class tired, fall behind and drop out. Poorer children also tend to have more mental-health trouble. Indeed, illness is the most common reason given for missing school. Last year the number of young Britons referred to mental-health services passed 1m for the first time, according to the Children’s Commissioner.</p>
-<p>Children who have special educational needs account for most long-term absences. Hugh, a 14-year-old from Lincolnshire, has ADHD and autism. He has not been to school in a year. Bullies and strict teachers made his life so miserable that he had a mental-health crisis. His mother is still struggling to find him an online tutor for the new academic year. She welcomes the government’s plans to open more specialist schools and to give teachers better resources for neurodiverse children. But she argues that school remains too hard for kids who do not fit the mould.</p>
-<p>Tackling the attendance problem will require more than rounding up truants in shopping centres and fining their parents. Past experience provides some lessons. Between 2000 and 2013 the rate of overall absence in English schools fell by two-fifths. Moira Wallace, a former senior civil servant, credits investment in on-site mentors and nurses and extra funding for poorer schools. Absence rates stopped falling after cuts were made to education and youth-services budgets, then shot up after the covid lockdowns. Early intervention helps. “It costs thruppence to help kids when they’re small,” says Mark Mon-Williams of the University of Leeds. Countries with lower rates of absence tend to have joined-up health, education and welfare systems; in Britain families often navigate disconnected services.</p>
-<p>Putting on more clubs and activities on Fridays, when absence rates are higher, might push more pupils through the gates. Online tutors and older pupils could help bring long-term absentees up to speed. Andy Burnham, the prime minister, hopes that a new curriculum with more vocational options, due in 2028, will bring back bored teenagers who doubt the value of education. But apprenticeships are hard to come by in a stagnant economy, and good ones still require sharp arithmetic and literacy. Mr Burnham and his team have some homework to do.<span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Britain</strong><br/><br/>英国的旷课问题惊人，但可以解决 英国 | 缺勤  2026年9月17日
+假期已成回忆，学校正全面开学。但缺课的学生人数多得惊人。新冠疫情之前，英格兰学校中每十个孩子里有一个“长期缺勤”，即缺课率达到或超过10%。如今，这一比例接近五分之一。缺课代价高昂。教育部计算，长期缺勤的学生到28岁时，年收入比几乎全勤的同龄人少1万英镑（合1.35万美元）。长期缺勤的孩子更有可能入狱、吸毒和自残。英国有超过100万尼特族（NEET）——即未接受教育、未就业或未接受培训的年轻人——他们仅在福利和产出损失方面就耗费国家超过1200亿英镑。这些人中很多都是当年的缺勤学生。尽管国际比较并不容易，但数据显示，在经合...]]></description>
+      <content:encoded><![CDATA[<h2>英国旷课问题惊人，但可以解决</h2>
+英国的旷课问题惊人，但可以解决 英国 | 缺勤 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/035110b5a6d52b06bb7c3f15be1c712f.jpg"/> 2026年9月17日
+<p>假期已成回忆，学校正全面开学。但缺课的学生人数多得惊人。新冠疫情之前，英格兰学校中每十个孩子里有一个“长期缺勤”，即缺课率达到或超过10%。如今，这一比例接近五分之一。缺课代价高昂。教育部计算，长期缺勤的学生到28岁时，年收入比几乎全勤的同龄人少1万英镑（合1.35万美元）。长期缺勤的孩子更有可能入狱、吸毒和自残。英国有超过100万尼特族（NEET）——即未接受教育、未就业或未接受培训的年轻人——他们仅在福利和产出损失方面就耗费国家超过1200亿英镑。这些人中很多都是当年的缺勤学生。尽管国际比较并不容易，但数据显示，在经合组织（OECD）这个主要由富裕国家组成的俱乐部中，新冠疫情后许多成员的缺勤率保持平稳。但英语国家的缺勤率却上升了。英国的严重缺勤问题尤为突出。在2025-26学年，缺课超过50%的学生比例达到历史最高。全国校长协会的保罗·怀特曼表示，长期缺勤的原因往往在校门之外。疫情导致学校关闭，削弱了“上学是义务”这一长期反复强调的信息。更多家长在家办公，不再需要老师照看孩子。未经严格审查的家庭教育越来越普遍。贫困也是因素之一：贫困儿童严重缺勤的可能性要高得多。据估计，超过100万英国青少年没有自己的床。他们可能带着疲惫去上课，跟不上进度，然后辍学。较贫困的孩子也往往有更多心理健康问题。事实上，生病是缺勤最常见的理由。据儿童事务专员称，去年英国转介至心理健康服务的年轻人数量首次突破100万。有特殊教育需求的孩子占长期缺勤的大多数。来自林肯郡的14岁男孩休患有多动症和自闭症。他已经一年没上学了。霸凌者和严厉的老师让他的生活痛苦不堪，以至于他出现了心理健康危机。他的母亲仍在努力为他在新学年找一名在线辅导老师。她欢迎政府开设更多专门学校、为神经多样性儿童提供更好教师资源的计划。但她认为，对不符合常规模式的孩子来说，上学仍然太难。解决缺勤问题需要的不仅仅是在购物中心围堵逃学的学生并罚款他们的父母。过去的经验提供了一些教训。2000年至2013年间，英格兰学校的总体缺勤率下降了五分之二。前高级公务员莫伊拉·华莱士将其归功于对校内导师和护士的投入，以及对较贫困学校的额外资助。教育支出和青年服务预算被削减后，缺勤率停止下降，而在新冠封锁后则急剧上升。早期干预很有帮助。“在孩子还小的时候帮助他们，成本很低，”利兹大学的马克·蒙-威廉姆斯说。缺勤率较低的国家往往拥有整合的医疗、教育和福利体系；而在英国，家庭常常要在互不衔接的服务之间奔波。在缺勤率较高的周五增加更多社团和活动，或许能推动更多学生走进校门。在线辅导老师和年长的学生可以帮助长期缺勤者赶上学业。首相安迪·伯纳姆希望，到2028年推出的包含更多职业选项的新课程能让那些认为教育无价值而感到无聊的青少年回归课堂。但在经济停滞的情况下，学徒机会来之不易，而且好的学徒岗位仍然要求扎实的算术和读写能力。伯纳姆先生和他的团队还有一些功课要做。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-043</guid>
       <category>Britain</category>
       <pubDate>Thu, 17 Sep 2026 10:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Reform UK’s cash windfall should not frighten its opponents</title>
+      <title>英国改革党的意外之财不应吓倒其对手</title>
       <link>https://www.economist.com/8c4c1271-eb1c-45b2-bf0a-8ec18b3c1bbc.html</link>
-      <description><![CDATA[<strong>Britain</strong><br/><br/>Britain | Hey, big spenders
-
-
-
-
-Sep 17th 2026
-Really big political donations have long been rare in Britain. Only a few dozen people have ever handed a gift of £1m ($1.3m) or more to a party. But that seems to be changing. On September 11th and 12th the populist-right Reform uk revealed that Ben Del...]]></description>
-      <content:encoded><![CDATA[<h2>Reform UK’s cash windfall should not frighten its opponents</h2>
-<p><span class="te_section_title">Britain</span><span class="te_fly_span"> | Hey, big spenders</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/afecb7f1ab84ec02edf2f7cbb885c019.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>Really big political donations have long been rare in Britain. Only a few dozen people have ever handed a gift of £1m ($1.3m) or more to a party. But that seems to be changing. On September 11th and 12th the populist-right Reform uk revealed that Ben Delo and Christopher Harborne, both crypto entrepreneurs, had given the party £36m each.</p>
-<p>They insist they are not motivated by personal gain. Mr Delo says he supports Nigel Farage, Reform’s leader, because his autism makes him hostile to “lying politicians”. Mr Harborne backs Reform because he fears “existential threats” including climate change (oddly, since Mr Farage thinks that is no big deal).</p>
-<p>The size of the gifts—more than all donations made last year to every political party combined—has caused angst among Reform’s opponents. The government has already announced plans to tighten existing legislation, including by restricting the amount that Britons living abroad (which until recently included Mr Delo and Mr Harborne) can give to £100,000 a year. Some parliamentarians wish to apply that cap to all donors. They also want the law to take effect retroactively, which could force Reform to return its windfall.</p>
-<p>After two years of building momentum, Reform has slipped behind Labour in The Economist’s average of opinion polls. More than two-thirds of voters now say they dislike Mr Farage, according to a YouGov poll. The party is currently hiring dozens of local campaign managers to boost its presence on the ground, and plans to double the size of its policy unit to help prepare for government.</p>
-<p>Opponents worry that Reform’s financial advantage will give it an unfair edge at the next election. But the evidence suggests there is little correlation between spending and success. The Conservatives raised more than Labour between 2020 and 2024, only to be heavily beaten at the general election. Remain easily outspent Leave at the Brexit referendum. In 2019 the Liberal Democrats received a then-record £9m donation but performed disastrously in that year’s election.</p>
-<p>Strict rules limit how much a party can spend on campaigning in the run-up to an election. It cannot fork out more than £34m nationally; each individual constituency has a separate spending cap. A study in 2021 found that the difference between having a full-blown local campaign in a particular parliamentary seat and no local operation at all amounts to three percentage points—enough to make a difference in a tight race, but unlikely to be a game-changer overall.</p>
-<p>The House of Lords will vote later this year on whether to introduce a cap on all donations, which the Commons would have to approve. The government sounds dubious, but it is considering tightening the requirement for big donors to be living in Britain at the time they get involved in politics, which could yet render the gifts from Messrs Delo and Harborne illegal. For now, other parties are busy raising their own funds off the back of Reform’s good fortune. Labour sent a “call to action” to members, asking them to consider chipping in a few pounds. Every little helps. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Britain</strong><br/><br/>英国改革党的意外之财不应吓倒其对手
+英国 | 嘿，大款们 
+2026年9月17日
+真正的大额政治捐款在英国长期以来一直很少见。历史上只有几十人向政党赠送过100万英镑（合130万美元）或更多的礼物。但这种情况似乎正在改变。9月11日至12日，民粹主义右翼政党英国改革党披露，两位加密货币企业家本·德洛和克里斯托弗·哈伯恩分别向该党捐赠了3600万英镑。他们坚称自己并非出于个人利益。德洛先生表示，他支持改革党领袖奈杰尔·法拉奇，因为他的自闭症使他对“撒谎的政客”抱有敌意。哈伯恩先生支持改革党，是因为他担心包括气候变化在内的“生存威胁”（奇怪的是，法拉奇先生认为这没什么大不了的）。这些礼物的规模——...]]></description>
+      <content:encoded><![CDATA[<h2>英国改革党的意外之财不应吓倒其对手</h2>
+<p>英国改革党的意外之财不应吓倒其对手</p>
+英国 | 嘿，大款们 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/afecb7f1ab84ec02edf2f7cbb885c019.jpg"/>
+<p>2026年9月17日</p>
+<p>真正的大额政治捐款在英国长期以来一直很少见。历史上只有几十人向政党赠送过100万英镑（合130万美元）或更多的礼物。但这种情况似乎正在改变。9月11日至12日，民粹主义右翼政党英国改革党披露，两位加密货币企业家本·德洛和克里斯托弗·哈伯恩分别向该党捐赠了3600万英镑。他们坚称自己并非出于个人利益。德洛先生表示，他支持改革党领袖奈杰尔·法拉奇，因为他的自闭症使他对“撒谎的政客”抱有敌意。哈伯恩先生支持改革党，是因为他担心包括气候变化在内的“生存威胁”（奇怪的是，法拉奇先生认为这没什么大不了的）。这些礼物的规模——超过了去年所有政党收到的捐款总和——引起了改革党反对者的焦虑。政府已经宣布计划收紧现有立法，包括将居住在海外的英国人（直到最近还包括德洛先生和哈伯恩先生）的捐款金额限制在每年10万英镑以内。一些议员希望对所有捐赠者适用这一上限。他们还希望该法律具有追溯效力，这可能迫使改革党退还这笔意外之财。经过两年的势头积累，改革党在《经济学人》的民意调查平均值中已落后于工党。根据YouGov的一项民意调查，超过三分之二的选民现在表示不喜欢法拉奇先生。该党目前正在招聘数十名地方竞选经理，以加强其在基层的存在，并计划将政策部门的规模扩大一倍，为执政做准备。反对者担心改革党的财务优势将使其在下一次选举中获得不公平的优势。但证据表明，支出与成功之间几乎没有相关性。保守党在2020年至2024年间筹集的资金多于工党，却在普选中惨败。留欧派在英国脱欧公投中轻松地比脱欧派花了更多钱。2019年，自由民主党收到了当时创纪录的900万英镑捐款，但在当年的选举中表现糟糕。严格的规则限制了政党在选举前一段时间内的竞选支出。其在全国范围内不能支出超过3400万英镑；每个选区都有单独的支出上限。2021年的一项研究发现，在某个特定议会席位中进行全面地方竞选与完全没有地方运作之间的差异仅为三个百分点——这足以在势均力敌的竞选中产生影响，但不太可能改变整体格局。上议院将于今年晚些时候投票决定是否对所有捐款设置上限，而下议院必须批准该决定。政府对此听起来持怀疑态度，但正在考虑收紧对大额捐赠者在涉足政治时必须居住在英国的要求，这可能会使德洛和哈伯恩先生的捐赠变为非法。目前，其他政党正忙着借改革党的好运来筹集自己的资金。工党向成员发送了一份“行动呼吁”，请他们考虑捐几英镑。积少成多。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-044</guid>
       <category>Britain</category>
       <pubDate>Thu, 17 Sep 2026 09:32:01 +0000</pubDate>
@@ -1088,35 +926,11 @@ Really big political donations have long been rare in Britain. Only a few dozen 
       <pubDate>Thu, 17 Sep 2026 06:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>A big-state prime minister meets a small-minded British public</title>
+      <title>一位大政府首相遇上小心眼的英国公众</title>
       <link>https://www.economist.com/98083594-25db-4c1d-a3d9-455241918645.html</link>
-      <description><![CDATA[<strong>Britain</strong><br/><br/>Britain | Bagehot
-
-
-
-
-Sep 17th 2026
-Wider still, and wider? Andy Burnham ran to be prime minister with unbounded ambitions for the British state. Four decades of neoliberal policies would be rolled back. Council houses would be built, the north reindustrialised and a struggling water supplier nation...]]></description>
-      <content:encoded><![CDATA[<h2>A big-state prime minister meets a small-minded British public</h2>
-<p><span class="te_section_title">Britain</span><span class="te_fly_span"> | Bagehot</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ad8442b7efab52098703cc23c050341b.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>Wider still, and wider? Andy Burnham ran to be prime minister with unbounded ambitions for the British state. Four decades of neoliberal policies would be rolled back. Council houses would be built, the north reindustrialised and a struggling water supplier nationalised. Much was left ambiguous (just what is “public control”?) But a former New Labour special adviser knows the suggestive force of the English language.</p>
-<p>A man who prides himself on having the common touch, Mr Burnham might check out the British Social Attitudes survey, which has been asking the same questions about taxes and spending since 1983. It charts how the public has responded to government spending like a thermostat-twiddler, clicking on and off in response to cycles of largesse and restraint. When politicians spend too much, or too little, the electorate reliably pushes back.</p>
-<p>At 36%, the share who now think taxes and social spending should increase is the lowest since 2013, the height of Britain’s post-financial-crisis austerity drive. It has dropped by 19 points since a peak in 2022, when governments everywhere indulged in a spree of covid-19 stimulus packages and energy bail-outs, and were mostly applauded. Britons who think the size of the state should be frozen are, for the first time since 2015, the plurality. Those who want to shrink it entirely have never been a big tribe in Britain, but at 19% they are now twice as numerous as when Margaret Thatcher was at her zenith.</p>
-<p>In sum: a prime minister with the most expansive ambitions for the state since the 1970s faces the most hawkish public since the Tory chancellor George Osborne bestrode Westminster with a scythe. Rarely has such a mismatch existed between a prime minister’s ambitions and the public’s appetite to pay for them. In Mr Osborne’s era, America’s Tea Party movement of populists and libertarians coined the backronym “taxed enough already”. Britain lacks the organisation or the “don’t tread on me” placards, but it has the mood. Tea time has arrived.</p>
-<p>The backlash is no surprise. At 37% of gdp, the tax burden is the highest since 1948. Voters may appear delusional in demanding tax restraint at a moment when the bond markets have the Treasury on notice and an ageing population is straining the public finances. But for Christopher Wlezien, the academic who first spotted the thermostatic views of American taxpayers, it is a sign of a healthy democracy. Voters have a clear idea of what size state they want, and they know when it has got out of whack. For all the fears of declining media literacy, when it comes to tax, the public senses when the room is too hot.</p>
-<p>Tea time ill suits a prime minister who aspires to great social reforms. Take social care, which Mr Burnham has suggested could be fixed “if everybody on the nhs principle contributed a little”. Britons agree that the social-care system is broken, but only a minority are willing to pay more to fix it. Free at the point of use is not a proposition with popular support.</p>
-<p>Doubtless he knows this. But Mr Burnham’s party has never really answered the painful question of what it means to be a Labour government in an age of fiscal restraint. And so, while promising to roll back neoliberalism, Mr Burnham also promised to stick to his predecessor’s pledge not to increase the four taxes that account for the bulk of government revenues. Or, as he put it, he promises “the biggest change in our lifetimes to the way the country is run and it is consistent with the 2024 manifesto”. His project has the logic of an Escher print.</p>
-<p>If tea time brings opportunities to remake the state, Mr Burnham will miss them. He will not cut welfare spending to pay for defence, since national security “can’t come at the expense of social security”. Yet support for increasing benefits for the poor is at the lowest level since 2009. And if you think Britons are deaf to the case for funding the armed forces more lavishly, consider this statistic. Only 16% now say they are confident that America would come to Britain’s aid if it were attacked. About those hard truths of geopolitics that politicians believe the electorate cannot bear? Prime minister, people are gagging to hear them.</p>
-<p>The last time Britons declared themselves taxed enough already, the nhs enjoyed historically high performance and satisfaction ratings. Now they are near historical lows. But has tea time come around despite the parlous condition of public services, or because of them? The problem with Mr Burnham’s ambitions is not just their cost but their credibility. The British state struggles to remove tonsils and catch fly-tippers. To watch Mr Burnham heap steel nationalisation on Whitehall, too, is like watching children at a wedding buffet, piling their plates with eclairs they cannot possibly consume.</p>
-<p>The Conservatives find it easier to govern when the public favours largesse than Labour does when people crave restraint. In office, Tories follow the thermostat wherever it points. “The public didn’t want Stafford Cripps-style drinking our own urine,” wrote Boris Johnson, a big-spending prime minister who pretended the previous decade of hairshirted Tory government had never happened. His colleagues fretted that he had broken the thermostat, leaving Britons hooked on furloughs and subsidies.</p>
-<p>They needn’t have worried. Duly, the thermostat clicked again. And so Kemi Badenoch enjoys the rarest of fortunes: being a Tory leader facing a Labour prime minister who hankers for a larger state and a public unwilling to pay for it. In government she would face an invidious inheritance: any administration will need a chunky mix of spending cuts and tax rises to stabilise the public finances.  But tea time is a fine time to be a Tory in opposition. It would take unusual incompetence to mess it up. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Britain</strong><br/><br/>一位大政府首相遇上小心眼的英国公众 英国 | 巴杰特  2026年9月17日 更广，再更广？安迪·伯纳姆怀着对英国政府无边的雄心竞选首相。四十年来的新自由主义政策将被逆转。将建造市政住房，北方再工业化，一家陷入困境的供水商将被国有化。很多内容都含糊其辞（到底什么是“公共控制”？）。但一位前新工党特别顾问深知英语的暗示力量。伯纳姆先生以自己平易近人而自豪，他或许该看看《英国社会态度》调查——该调查自1983年以来一直就税收和政府支出提出同样的问题。它描绘了公众如何像摆弄恒温器一样回应政府支出：随着慷慨与紧缩的周期来来去去地开关。当政客花钱太多或太少时，选民总会可靠地反弹。目前认为税收和社会支出应...]]></description>
+      <content:encoded><![CDATA[<h2>一位大政府首相遇上小心眼的英国公众</h2>
+一位大政府首相遇上小心眼的英国公众 英国 | 巴杰特 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ad8442b7efab52098703cc23c050341b.jpg"/> 2026年9月17日 更广，再更广？安迪·伯纳姆怀着对英国政府无边的雄心竞选首相。四十年来的新自由主义政策将被逆转。将建造市政住房，北方再工业化，一家陷入困境的供水商将被国有化。很多内容都含糊其辞（到底什么是“公共控制”？）。但一位前新工党特别顾问深知英语的暗示力量。伯纳姆先生以自己平易近人而自豪，他或许该看看《英国社会态度》调查——该调查自1983年以来一直就税收和政府支出提出同样的问题。它描绘了公众如何像摆弄恒温器一样回应政府支出：随着慷慨与紧缩的周期来来去去地开关。当政客花钱太多或太少时，选民总会可靠地反弹。目前认为税收和社会支出应当增加的民众比例为36%，是2013年以来的最低点——那是英国金融危机后紧缩运动的高峰期。这一比例自2022年达到峰值以来已下降19个百分点，当时各国政府都沉迷于新冠疫情刺激计划和能源救助的狂欢，并且大多受到称赞。认为政府规模应冻结不变的英国人自2015年以来首次成为相对多数。想彻底缩小政府的人在英国从来不是一个大群体，但如今19%的比例已是玛格丽特·撒切尔鼎盛时期的两倍。总而言之：一位自1970年代以来对国家抱有最宏大雄心的首相，面对的却是自保守党财政大臣乔治·奥斯本手持镰刀横扫威斯敏斯特以来最鹰派的公众。首相的雄心与公众为此买单的意愿之间，很少出现过如此巨大的错位。在奥斯本时代，美国的民粹主义和自由意志主义茶党运动造出了“已经缴税够多了”这个缩写词。英国缺乏那样的组织或“别惹我”标语牌，但有这种情绪。茶歇时间到了。这种反弹并不令人意外。税收负担占GDP的37%，是1948年以来的最高水平。在债券市场正盯着财政部、人口老龄化正给公共财政带来压力之际，选民要求克制增税似乎显得不切实际。但对于最早发现美国纳税人恒温器式观点的学者克里斯托弗·莱津来说，这是健康民主的标志。选民对自己想要多大的政府有清晰认识，也知道何时偏离了轨道。尽管人们担心媒体素养下降，但在税收问题上，公众能感觉到房间是否太热了。茶歇时间不适合一位立志进行重大社会改革的首相。以社会照护为例，伯纳姆先生曾建议“如果每个人都按照国民医疗服务体系的原则贡献一点”，这个问题就能解决。英国人同意社会照护体系已经破碎，但只有少数人愿意多交钱来修复它。使用点免费并不是一个得到大众支持的主张。他无疑知道这一点。但伯纳姆先生的政党从未真正回答过这个痛苦的问题：在财政紧缩时代，成为工党政府意味着什么。于是，在承诺逆转新自由主义的同时，伯纳姆先生也承诺遵守前任的承诺，即不提高构成政府收入主体的四项税收。或者，用他自己的话说，他承诺“这是我们一生中国家治理方式的最大变革，且与2024年宣言一致”。他的计划具有埃舍尔版画的逻辑。如果茶歇时间为重塑政府带来了机会，伯纳姆先生将会错过它们。他不会削减福利支出来为国防买单，因为国家安全“不能以社会保障为代价”。然而，支持增加穷人福利的比例处于2009年以来的最低水平。如果你认为英国人对更慷慨地资助军队的理由充耳不闻，不妨看看这个数据：如今只有16%的人表示，如果英国遭到袭击，他们相信美国会来帮忙。那些政客们认为选民承受不了的地缘政治硬道理怎么办？首相，人们渴望听到这些。上一次英国人宣称自己已经缴税够多时，国民医疗服务体系的绩效和满意度评级处于历史高位。如今它们接近历史低点。但茶歇时间的到来，是因为公共服务状况堪忧，还是恰恰因为这种状况？伯纳姆先生的雄心面临的问题不仅是成本，还有可信度。英国政府连切除扁桃体和抓乱倒垃圾的人都费劲。看着伯纳姆先生把钢铁国有化也堆到白厅身上，就像看着孩子在婚礼自助餐上把盘子堆满自己根本吃不完的泡芙。当公众偏向慷慨时，保守党执政比工党在公众渴望紧缩时执政更容易。在台上，保守党跟着恒温器指向哪里就走哪里。“公众可不想过斯塔福德·克里普斯式喝自己尿的日子，”鲍里斯·约翰逊写道。这位大手大脚的首相假装前十年苦行僧式的保守党政府从未发生过。他的同僚曾担心他打破了恒温器，让英国人沉迷于无薪休假补贴和补贴。他们本不必担心。果然，恒温器又咔嗒一声切换了。于是，凯米·巴德诺克享有极为罕见的运气：作为保守党领袖，面对的是一位渴望更大政府且公众不愿买单的工党首相。如果执政，她将面对一个棘手的遗产：任何政府都需要大幅组合削减支出和增税来稳定公共财政。但茶歇时间是做反对党保守党的好时候。要搞砸它需要非同寻常的无能。■]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-048</guid>
       <category>Britain</category>
       <pubDate>Thu, 17 Sep 2026 05:32:01 +0000</pubDate>
@@ -1176,37 +990,20 @@ MIDDLE EASTERN rulers are livid with President Donald Trump, who together with I
       <pubDate>Thu, 17 Sep 2026 03:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Should Anthropic press pause on a potential $2trn IPO?</title>
+      <title>Anthropic是否应暂停可能达2万亿美元的IPO？</title>
       <link>https://www.economist.com/459f71c4-4d6a-482e-a1c4-0c1eee4aefd0.html</link>
-      <description><![CDATA[<strong>Business</strong><br/><br/>Business | AI and catastrophic risk
-
-
-
-
-Sep 17th 2026
-FOR All its five and a half years of existence, Anthropic has grappled with the tension between building artificial intelligence safely and making enough money to push forward the frontier of research. On September 12th that tension came to a hea...]]></description>
-      <content:encoded><![CDATA[<h2>Should Anthropic press pause on a potential $2trn IPO?</h2>
-<p><span class="te_section_title">Business</span><span class="te_fly_span"> | AI and catastrophic risk</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/0f91e2c437432ffc2519f4e955c78baf.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>FOR All its five and a half years of existence, Anthropic has grappled with the tension between building artificial intelligence safely and making enough money to push forward the frontier of research. On September 12th that tension came to a head. Dario Amodei, the AI lab’s boss, called on the industry to “slow the pace” of AI development, just as his firm was believed to be on the verge of launching what may be the biggest initial public offering (IPO) of all time.</p>
-<p>His call for a slowdown, supported by other bosses of AI labs, such as OpenAI’s Sam Altman and Elon Musk of SpaceXAI, followed a week in which angst about potentially catastrophic risks from AI broke out from the echo chambers of Silicon Valley to evening news broadcasts and dinner-table conversations. The explosion of worry was set off by warnings from researchers at Anthropic that there were credible fears within the company that AI could wipe out humanity in a matter of years.</p>
-<p>It is unusual, to say the least, for people within a firm to air such doomsday warnings about their most cutting-edge products in public. It is doubly so when seeking to entice investors to back an IPO that reportedly aims to value the company at about $2trn—about as much as the ten highest previous tech flotations added together. If the warnings come true (and assuming that a few lawyers survive the calamity), Anthropic could face what David Sacks, Donald Trump’s former chief AI adviser, has called the “mother of all product-liability lawsuits”.</p>
-<p>That has led to speculation that, in order to deal with the fallout, Anthropic will at a minimum have to amend the confidential S-1 paperwork it has filed with the Securities and Exchange Commission (SEC) ahead of the IPO. More seriously, its underwriters could reduce the valuation they hope for, or even postpone the IPO. Mr Altman raised the stakes on September 12th by stating in an interview with Fortune magazine that OpenAI, which has also filed paperwork for an IPO, no longer plans to list this year. “Given everything happening with safety, this would right now be an ill-advised moment to go public,” he said.</p>
-<p>Mr Altman’s remarks were doubtless a cheeky dig at his arch-rival; OpenAI had previously let it be known that it was unlikely to be ready for an IPO until next year. And some investors in Anthropic, such as Brad Gerstner of Altimeter Capital, which co-led the lab’s latest funding round, were quick to throw their weight behind Mr Amodei and his firm. “Anthropic will IPO. The market knows how to price risk,” he posted on X.</p>
-<p>How quickly the firm goes public, and at what price, depends on various factors. John Coffee, an expert in securities law at Columbia Law School, says it is not unusual for companies to amend SEC filings before an IPO. This can be done quickly. He suggests that Anthropic, which has a governance structure designed to prioritise safety over profit, may have already sufficiently disclosed the risks in its S-1. Once the SEC signs its disclosures off, that limits the firm’s liability for securities fraud if disaster strikes, he says. Product liability is a different matter, but Anthropic is likely to have also disclosed the risks of lawsuits.</p>
-<p>The market may force Anthropic’s hand, however. The firm will want to see how the furore affects the share prices of listed AI firms over the coming days, Mr Coffee says. If AI is under a “deep, dark cloud” and the sector as a whole suffers, that may prompt a serious rethink about the IPO. A modest fall in stock prices might not set the flotation back for long.</p>
-<p>Supporters of Anthropic say Mr Amodei’s long history of warning about AI risks offers reassurance. In an essay published on September 12th, Anthropic’s boss said the triggers for the latest outpouring of concern were twofold. First, AI’s capabilities are compounding faster than the industry’s understanding of how to control them. That, he wrote, is primarily because of “AI’s growing ability to build the next generation of AI”. Second, several recent instances of rogue AI agents carrying out illegal hacks, such as the attack in July by swarms of OpenAI agents on Hugging Face, an AI platform, could be harbingers of greater dangers to come.</p>
-<p>Mr Amodei outlined several ways in which the industry could slow the pace of AI models’ development to ensure their safety. He said Anthropic would give third-party evaluators the same access as its own employees to its models. They would then be able to verify safety practices and report incidents. Mr Altman posted that OpenAI would do the same.</p>
-<p>Mr Amodei also proposed regulation of frontier AI models in America. He called for voluntary co-operation between the labs until that happens, with a legal waiver from America’s government to prevent the discussions prompting antitrust concerns. He also pushed for a broad international regulatory regime, encompassing China.</p>
-<p>President Trump has shrugged off the AI safety worries, saying that outpacing China in building AI was the most important thing. “Whoever wins AI wins,” he told reporters on September 13th, while on a trip to Ireland. The only guardrail needed was a “High IQ!” president, he later wrote on Truth Social. Mr Sacks, his former adviser, also made light of the need for regulation: if Anthropic and OpenAI thought it important to slow down development, he said, they should do it themselves.</p>
-<p>An industry-wide slowdown along the lines Mr Amodei has proposed would not seriously hurt Anthropic’s commercial prospects. A pause might even benefit the bottom line. It could improve profits by reducing the amount the firm spends on training its next generation of models; and it could ease competition if open-source model-makers, who have been winning business from Anthropic and OpenAI by providing companies with cheaper models, would also have to slow down.</p>
-<p>But potential IPO investors, many of whom are carried away by enthusiasm for AI, should not take the latest safety panic lightly. If it adds to fears, widespread in the West (less so in Asia), that AI will wipe out jobs, drive up electricity prices and widen the gap between haves and have-nots, it may increase political pressure to temporarily halt development and put a freeze on data-centre construction. Even those not worried about AI models annihilating humanity should worry about anxious politicians trying to annihilate AI. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Business</strong><br/><br/>Anthropic是否应暂停可能达2万亿美元的IPO？ 商业 | AI与灾难性风险  2026年9月17日
+在其存在的五年半时间里，Anthropic一直在构建安全人工智能与赚取足够资金以推进研究前沿之间挣扎。9月12日，这种紧张关系达到了顶点。这家AI实验室的负责人Dario Amodei呼吁业界“放慢”AI开发的步伐，而就在此时，他的公司据信正处于启动可能是有史以来最大规模首次公开募股（IPO）的边缘。在他发出放缓呼吁（得到了OpenAI的Sam Altman和SpaceXAI的Elon Musk等其他AI实验室负责人的支持）之前的一周里，关于AI可能带来灾难性风险的焦虑从硅谷的回音室蔓延...]]></description>
+      <content:encoded><![CDATA[<h2>Anthropic是否应暂停可能达2万亿美元的IPO？</h2>
+Anthropic是否应暂停可能达2万亿美元的IPO？ 商业 | AI与灾难性风险 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/0f91e2c437432ffc2519f4e955c78baf.jpg"/> 2026年9月17日
+<p>在其存在的五年半时间里，Anthropic一直在构建安全人工智能与赚取足够资金以推进研究前沿之间挣扎。9月12日，这种紧张关系达到了顶点。这家AI实验室的负责人Dario Amodei呼吁业界“放慢”AI开发的步伐，而就在此时，他的公司据信正处于启动可能是有史以来最大规模首次公开募股（IPO）的边缘。在他发出放缓呼吁（得到了OpenAI的Sam Altman和SpaceXAI的Elon Musk等其他AI实验室负责人的支持）之前的一周里，关于AI可能带来灾难性风险的焦虑从硅谷的回音室蔓延到了晚间新闻播报和餐桌上的对话。引发这场担忧爆发的，是Anthropic研究人员的警告，他们称公司内部存在可信的担忧，认为AI可能在数年内消灭人类。</p>
+<p>至少可以说，公司内部人士公开对其最尖端产品发出此类末日警告是非常不寻常的。在寻求吸引投资者支持一场据报道目标估值约2万亿美元（大约相当于此前十家最大科技公司IPO市值之和）的IPO之际，这样做更是加倍罕见。如果这些警告成真（并且假设有少数律师能在灾难中幸存），Anthropic可能面临被唐纳德·特朗普的前首席AI顾问David Sacks称为“所有产品责任诉讼之母”的诉讼。这引发了猜测，即为了应对后果，Anthropic至少必须修改其在IPO前向美国证券交易委员会（SEC）提交的保密S-1文件。更严重的是，其承销商可能会降低他们期望的估值，甚至推迟IPO。</p>
+<p>Altman在9月12日加大了赌注，他在接受《财富》杂志采访时表示，同样已提交IPO文件的OpenAI不再计划今年上市。他说：“鉴于安全方面发生的一切，现在上市将是一个不明智的时刻。”Altman的言论无疑是对其主要竞争对手的厚脸皮挖苦；OpenAI此前已透露，其IPO可能要到明年才能准备就绪。而Anthropic的一些投资者，如共同领投该实验室最新一轮融资的Altimeter Capital的Brad Gerstner，迅速表态支持Amodei及其公司。“Anthropic将会IPO。市场知道如何为风险定价，”他在X上发文称。</p>
+<p>该公司上市的速度以及定价取决于多种因素。哥伦比亚法学院证券法专家John Coffee表示，公司在IPO前修改SEC文件并不罕见。这可以迅速完成。他指出，Anthropic拥有旨在将安全置于利润之上的治理结构，可能已经在其S-1文件中充分披露了这些风险。他说，一旦SEC签署批准其披露文件，如果灾难发生，这将限制该公司在证券欺诈方面的责任。产品责任则是另一回事，但Anthropic很可能也已披露了诉讼风险。</p>
+<p>然而，市场可能会迫使Anthropic做出决定。Coffee表示，该公司将关注未来几天这场风波如何影响上市AI公司的股价。如果AI处于“深深的乌云”之下，且整个行业遭受打击，这可能会促使人们对IPO进行认真反思。股价的小幅下跌可能不会让上市推迟太久。Anthropic的支持者表示，Amodei长期警告AI风险的历史提供了安抚。</p>
+<p>在9月12日发表的一篇文章中，Anthropic的负责人表示，最新一波担忧的触发因素有两个。首先，AI的能力增长速度超过了业界对其控制方法的理解速度。他写道，这主要是因为“AI在构建下一代AI方面的能力不断增强”。其次，近期发生的几起恶意AI代理实施非法黑客攻击的事件，例如7月份一群OpenAI代理对AI平台Hugging Face的攻击，可能预示着未来更大的危险。Amodei概述了业界可以放缓AI模型开发速度以确保其安全的几种方式。他表示，Anthropic将给予第三方评估者与其自家员工相同的模型访问权限。这样他们就能核实安全实践并报告事件。Altman发文称OpenAI也将这样做。</p>
+<p>Amodei还提议在美国对前沿AI模型进行监管。他呼吁在监管出台之前，各实验室之间进行自愿合作，并由美国政府提供法律豁免，以防止讨论引发反垄断担忧。他还推动建立一个涵盖中国的广泛国际监管体系。特朗普总统对AI安全担忧不以为意，称在AI建设上超越中国才是最重要的事情。“谁赢得AI，谁就赢得一切，”他在9月13日前往爱尔兰途中对记者表示。他后来在Truth Social上写道，唯一需要的护栏是一位“高智商！”的总统。他的前顾问Sacks也轻描淡写了监管的必要性：他说，如果Anthropic和OpenAI认为放缓开发很重要，他们应该自己去做。</p>
+<p>按照Amodei提议的方向进行全行业放缓不会严重损害Anthropic的商业前景。暂停甚至可能有利于利润。这可能通过减少公司训练下一代模型的支出来提高利润；而且如果开源模型制造商（他们一直通过向企业提供更便宜的模型而从Anthropic和OpenAI手中赢得业务）也必须放缓，这可能缓解竞争。但潜在的IPO投资者——其中许多人被对AI的热情冲昏头脑——不应轻视最新的安全恐慌。如果它加剧了西方普遍存在（亚洲程度较轻）的担忧，即AI将消灭工作机会、推高电价并扩大贫富差距，那么它可能会增加要求暂时停止开发并冻结数据中心建设的政治压力。即使那些不担心AI模型消灭人类的人，也应该担心焦虑的政客试图消灭AI。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-051</guid>
       <category>Business</category>
       <pubDate>Thu, 17 Sep 2026 02:32:01 +0000</pubDate>
@@ -1237,33 +1034,16 @@ FOR All its five and a half years of existence, Anthropic has grappled with the 
       <pubDate>Thu, 17 Sep 2026 01:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>Nannying for the ultra-rich is increasingly demanding—and lucrative</title>
+      <title>为超富家庭当保姆日益要求苛刻——且报酬丰厚</title>
       <link>https://www.economist.com/62e4fd05-25f9-4473-877a-bc3f7289b859.html</link>
-      <description><![CDATA[<strong>Business</strong><br/><br/>Business | Spoonfuls of sugar
-
-
-
-
-Sep 17th 2026
-SHE WORKS at least 12 hours a day, seven days a week—but then has a week off. She might earn $200,000 a year, which at an hourly rate is on a par with a private-equity associate. High pay for long hours on a rota is common on oil platforms, in mines an...]]></description>
-      <content:encoded><![CDATA[<h2>Nannying for the ultra-rich is increasingly demanding—and lucrative</h2>
-<p><span class="te_section_title">Business</span><span class="te_fly_span"> | Spoonfuls of sugar</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ae63c5432379d0a9ce80dc38746a28bb.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>SHE WORKS at least 12 hours a day, seven days a week—but then has a week off. She might earn $200,000 a year, which at an hourly rate is on a par with a private-equity associate. High pay for long hours on a rota is common on oil platforms, in mines and on container ships. It is increasingly so in another exacting field: caring for the children of the super-rich.</p>
-<p>A decade or so ago, such highly paid gigs were rare. “We used to get a lot of: ‘Oh, I’m not paying that’,” says Anita Rogers, the founder of British American Household Staffing (BAHS), an agency that finds nannies (as well as governesses, butlers and chefs) for wealthy households. “Now it is quite the opposite,” she says. Clients demand nannies who have not only trained at the best academies but also speak several languages, have degrees from elite universities and are willing to travel constantly and put in very long days. And they are willing to pay.</p>
-<p>This has led to a boom in the top-of-the-market nannying, which is something of a cottage industry. Although some institutions are of long standing—the Norland University of Early Childhood, a posh British training school, has been around for more than a century—many of the agencies to which upper-crust parents are turning are much younger. Ms Rogers set up BAHS in 2012; among her competitors are Adventure Nannies (established in 2007) and Morgan &amp; Mallet (2015). Ms Rogers says she now has 7,000 clients.</p>
-<p>The basics of nannying for the children of the very rich are the same as for those of the merely affluent: bottle-feeding, preparing meals, trips to the playground. But the surroundings and expectations can make the job almost unrecognisable. Often a nanny is just one of a dozen staff, rather than the sole employee. Travelling with the family is different too. “They want nannies that have experience on yachts and jets,” Ms Rogers says. “It’s just a given.” Not everyone is cut out to thrive in an environment that can be “like ‘Succession’”, she adds. “This extreme wealth can be a lot for somebody that’s never been exposed to it.”</p>
-<p>The demands can be extreme (or extremely petty). One nanny recalls that an ultra-rich family she once worked for required her to iron their son’s underwear every day. Another parent was furious that she did not immediately fetch a ladder to replace a light bulb in the playroom ceiling, which was 17 feet high, while caring for their small children.</p>
-<p>The structure of the job has also changed, with the rise of the rota-nanny. Before the covid-19 pandemic Ms Rogers’s richer clients—who could afford as many hours of child care as they could possibly want—would often cobble arrangements together, hiring one nanny for Monday to Friday and another for the weekend, and then hire a babysitter for a night out. If parents had to work late, they would hope their weekday nanny could cover the extra hours at the last minute. Now two nannies, one on and the other off, can cover every daytime hour, every day of the year, if at a price of hundreds of thousands of dollars.</p>
-<p>This is plainly more convenient for those who can afford it. With separate nannies for weekdays and weekends, if they wanted one to travel with them, she might need to make arrangements for her own family, and be paid for longer hours and perhaps a travel fee too. Alternatively, they might hire a different nanny for the trip, whom their children would not know. With nannies on a full-time rota, there is much less disruption.</p>
-<p>It can suit many nannies too, says Ms Rogers. They get a full seven days off to do their own thing. When clients request weekday nannies, she now has fewer of them to offer. But the new system can come at a cost. “Before I really dove into child care, if you would have asked me my entire life from the start of four years old, what do you want to be when you grow up? I would have said a stay-at-home mom,” says Lauren Lomascolo, who has nannied for wealthy clients for a decade. Now she worries about ever finding help to cover the demands of her job. “If I stay in this for ever, I can’t have kids. If I get out of this, where is my income?”</p>
-<p>To some, nannying for the super-rich is enjoyably glamorous. Several successful reality-television shows have followed wealthy families, from the Kardashians to “Real Housewives”, around the world. In June Hulu aired “Million Dollar Nannies”, a reality-TV show set in Ibiza, in which six women and two men sought jobs with rich households. One of them had worked as a nanny for Kourtney Kardashian. The show featured more tantrums by adults than by toddlers. But it offered a twist on the usual escapism: the fantasy was not being one of the rich, but being employed by them. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Business</strong><br/><br/>为超富家庭当保姆日益要求苛刻——且报酬丰厚 | 商业 | 一勺糖  2026年9月17日
+她每周工作七天，每天至少工作12小时——但随后会休息一周。她的年收入可能达到20万美元，按小时计算与私募股权公司的助理相当。高薪换长时间轮班工作，在石油平台、矿山和集装箱船上很常见。在另一个要求严格的领域也日益如此：照顾超级富豪的子女。大约十年前，这种高薪工作还很罕见。英美家政服务公司（BAHS）的创始人安妮塔·罗杰斯说：“我们过去常听到很多‘哦，我可不会付那个价’的说法。”这家机构为富裕家庭寻找保姆（以及女家庭教师、管家和厨师）。“现在情况完全相反，”她说。客户要求的保姆不仅要在顶尖学院受过培训，还要会...]]></description>
+      <content:encoded><![CDATA[<h2>为超富家庭当保姆日益要求苛刻——且报酬丰厚</h2>
+为超富家庭当保姆日益要求苛刻——且报酬丰厚 | 商业 | 一勺糖 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/ae63c5432379d0a9ce80dc38746a28bb.jpg"/> 2026年9月17日
+<p>她每周工作七天，每天至少工作12小时——但随后会休息一周。她的年收入可能达到20万美元，按小时计算与私募股权公司的助理相当。高薪换长时间轮班工作，在石油平台、矿山和集装箱船上很常见。在另一个要求严格的领域也日益如此：照顾超级富豪的子女。大约十年前，这种高薪工作还很罕见。英美家政服务公司（BAHS）的创始人安妮塔·罗杰斯说：“我们过去常听到很多‘哦，我可不会付那个价’的说法。”这家机构为富裕家庭寻找保姆（以及女家庭教师、管家和厨师）。“现在情况完全相反，”她说。客户要求的保姆不仅要在顶尖学院受过培训，还要会说多种语言，拥有精英大学的学位，愿意频繁出差并超长时间工作。而且他们愿意为此买单。这导致了高端保姆市场的繁荣，这可以说是一个家庭式小产业。尽管有些机构历史悠长——诺兰早期教育大学，一所高档的英国培训学校，已经存在了一个多世纪——但上流社会父母求助的许多机构都年轻得多。罗杰斯女士于2012年创立了BAHS；她的竞争对手包括冒险保姆（成立于2007年）和摩根与马莱（2015年）。罗杰斯女士说，她现在有7000名客户。</p>
+<p>为超级富豪子女做保姆的基本工作与为普通富人家庭做保姆相同：喂奶、准备饭菜、带去游乐场。但周围环境和期望可能让这份工作几乎面目全非。通常，保姆只是十多名员工中的一员，而不是唯一的雇员。随家庭旅行也不同。“他们希望保姆有在游艇和私人飞机上工作的经验，”罗杰斯女士说。“这是理所当然的。”她补充说，并非每个人都能在那种可能“像《继承之战》一样”的环境中茁壮成长。“这种极端的财富对从未接触过的人来说可能难以承受。”要求可能极端（或极其琐碎）。一位保姆回忆说，她曾为一个超富家庭工作，每天都要熨烫他们儿子的内裤。另一位家长则对她没有立即搬梯子更换游戏室天花板上的灯泡而大发雷霆——那个天花板有17英尺高，而她当时还在照看他们年幼的孩子。</p>
+<p>工作的结构也发生了变化，轮班保姆兴起。在新冠疫情之前，罗杰斯女士更富有的客户——他们能负担得起尽可能多的育儿时间——常常拼凑安排，雇佣一个保姆负责周一到周五，另一个负责周末，然后晚上外出时再雇一个临时保姆。如果父母需要加班，他们希望工作日的保姆能在最后一刻顶替额外的时间。现在，两名保姆轮班，一人工作一人休息，可以覆盖一年中每一天的每个白天时段——当然，价格是数十万美元。这对那些负担得起的人来说显然更方便。如果工作日和周末各有保姆，而他们想让其中一位随行旅行，她可能需要为自己的家庭做安排，并获得更长工时的报酬，可能还有差旅费。或者，他们可能会为旅行另雇一名保姆，而孩子却不认识这个人。有了全职轮班保姆，干扰就少得多。罗杰斯女士说，这对许多保姆也很合适。她们有整整七天的假期去做自己的事。当客户要求工作日保姆时，她现在能提供的人选反而更少了。但新制度也可能付出代价。</p>
+<p>“在我真正投入育儿工作之前，如果你从我四岁起就问我，你长大后想做什么？我会说当全职妈妈，”劳伦·洛马斯科洛说，她为富有客户做保姆已有十年。现在她担心很难找到帮手来应对工作的要求。“如果我永远待在这一行，我就不能生孩子。如果我离开这一行，我的收入又在哪？”对某些人来说，为超级富豪当保姆是令人愉快的迷人工作。几档成功的真人秀节目跟随了世界各地的富有家庭，从卡戴珊一家到《真实主妇》。今年6月，Hulu播出了《百万美元保姆》，这是一档以伊比沙岛为背景的真人秀节目，六名女性和两名男性在节目中寻求为富裕家庭工作。其中一人曾为考特妮·卡戴珊当过保姆。节目里成年人发脾气比幼儿还多。但它对通常的逃避现实提供了一种变奏：幻想不是成为富人中的一员，而是被他们所雇用。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-053</guid>
       <category>Business</category>
       <pubDate>Thu, 17 Sep 2026 00:32:01 +0000</pubDate>
@@ -1541,34 +1321,15 @@ SHE WORKS at least 12 hours a day, seven days a week—but then has a week off. 
       <pubDate>Wed, 16 Sep 2026 07:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>The world’s most essential habitat does not get its proper due</title>
+      <title>世界上最重要的栖息地未得到应有的认可</title>
       <link>https://www.economist.com/5cb6fa7b-e4da-425b-8bce-e2d68be763e7.html</link>
-      <description><![CDATA[<strong>Culture</strong><br/><br/>Culture | Staying grounded
-
-
-
-
-Sep 17th 2026
-Just as there are charismatic species, there are charismatic habitats. Indeed, the two often overlap. Rainforests have beautiful birds and butterflies. African savannahs are filled with elephants and lions.
-Then there are the uncharismatic habitats with u...]]></description>
-      <content:encoded><![CDATA[<h2>The world’s most essential habitat does not get its proper due</h2>
-<p><span class="te_section_title">Culture</span><span class="te_fly_span"> | Staying grounded</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/d5cc2a1073b8f9a356dd8cf07af95692.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>Just as there are charismatic species, there are charismatic habitats. Indeed, the two often overlap. Rainforests have beautiful birds and <a href="https://www.economist.com/culture/2026/07/02/a-danish-bestseller-about-butterflies-has-set-hearts-aflutter" rel="noopener" target="_blank">butterflies</a>. African savannahs are filled with elephants and lions.</p>
-<p>Then there are the uncharismatic habitats with uncharismatic species. Mites, centipedes and millipedes, anyone? Slime moulds and woodlice? And <a href="https://www.economist.com/science-and-technology/2019/11/21/nematode-parasites-kill-a-lot-of-sheep" rel="noopener" target="_blank">nematodes</a>, nematodes, nematodes. These unloved critters, along with countless earthworms, are denizens of what is probably the least charismatic habitat of all: soil.</p>
-<p>And yet the soil and its inhabitants are the most important ecosystems of the lot, argues Frank Ashwood, an ecologist. Without them, <a href="https://www.economist.com/interactive/christmas-specials/2025/12/18/a-journey-into-the-world-s-most-mysterious-rainforest" rel="noopener" target="_blank">rainforests</a> and savannahs would not exist—for these more telegenic biomes are, quite literally, rooted in the soil. So is agriculture, which has fed humanity since Homo sapiens worked out how to farm.</p>
-<p>If you want biodiversity, soil provides it. According to Dr Ashwood, a teaspoon of healthy topsoil can hold up to 6bn micro-organisms; a square metre of temperate woodland or grassland soil contains some 300 <a href="https://www.economist.com/britain/2024/05/22/whats-behind-britains-earthworm-cataclysm" rel="noopener" target="_blank">earthworms</a>, 50,000 springtails, 100,000 mites and 5m nematodes. Moreover, for those who fret about global warming, soil is a great way to keep carbon out of the atmosphere. The carbon stored in a hectare of boreal-forest soil, for example, weighs more than a jumbo jet.</p>
-<p>Ignore the soil, then, at your peril. Partly, ignorance is a result of soil being, quite literally, dirt. Handle it, and it gets everywhere. Get it in a cut, and you may be advised to seek a tetanus shot and antibiotics. But there is also the matter of visibility. Air and water are transparent. Soil is not. The creatures that live in it may lead lives as exciting as those of forest-dwellers, but they are hidden from human sight. </p>
-<p>Dig them up, though, and the result is awesome. A species of mites, for example, has evolved to make antifreeze proteins so they can live in the soils of sub-Antarctic islands. Pseudoscorpions have learned to hitch-hike to new homes by grasping onto flying insects such as beetles. Slime moulds form feeding networks so efficient that planners can use them to <a href="https://www.economist.com/science-and-technology/2010/01/21/a-life-of-slime" rel="noopener" target="_blank">model public-transport networks</a>. Woodlice include a species which couples up (in a way almost unheard-of in invertebrates), so that one partner can defend the burrow containing their young while the other forages. And nematodes, reckoned to make up 80% of individual living animals, have been brought back to life by scientists from ancient samples of frozen Siberian tundra.</p>
-<p>Human beings, in Dr Ashwood’s telling, are not good soil mates. Modern machine-based farming not only leads to soil erosion; it also damages what soil remains by compacting together the particles, thus preventing creatures from traversing them. The result is a huge loss of species diversity.</p>
-<p>In some parts of the world, though, there is a backlash. “No-till” and regenerative agriculture aim both to conserve existing soil biodiversity and increase it. Done well, this approach can be more profitable than conventional modern methods.</p>
-<p>If Sir David Attenborough is looking for a swansong, then, he could do worse than release his camera crews on the world’s soils. The travel budget would probably be as high as that demanded by a more conventional wildlife documentary, for Dr Ashwood draws his examples from Africa, the Amazon, Australia, New Zealand, Ukraine and even the highlands of Scotland, as well as North America and his native England. Not so much “Life on Earth”, then, as “Life in Earth”. <span class="span_ufinish">■</span></p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Culture</strong><br/><br/>文化 | 脚踏实地  2026年9月17日
+就像有魅力四射的物种一样，也有魅力四射的栖息地。事实上，两者往往重叠。雨林里有美丽的鸟类和蝴蝶。非洲稀树草原上到处是大象和狮子。还有一些缺乏魅力的栖息地和缺乏魅力的物种。螨虫、蜈蚣和马陆？黏菌和潮虫？还有线虫、线虫、线虫。这些不受喜爱的生物，连同无数蚯蚓，是大概所有栖息地中最缺乏魅力的一种——土壤——的居民。然而，生态学家弗兰克·阿什伍德（Frank Ashwood）认为，土壤及其居民才是所有生态系统中最重要的。没有它们，雨林和稀树草原就不会存在——因为这些更上镜的生物群系确实扎根于土壤。农业也是如此，自从智人学会耕种以来，农业一直滋养着人类。如果你...]]></description>
+      <content:encoded><![CDATA[<h2>世界上最重要的栖息地未得到应有的认可</h2>
+文化 | 脚踏实地 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/d5cc2a1073b8f9a356dd8cf07af95692.jpg"/> 2026年9月17日
+<p>就像有魅力四射的物种一样，也有魅力四射的栖息地。事实上，两者往往重叠。雨林里有美丽的鸟类和蝴蝶。非洲稀树草原上到处是大象和狮子。还有一些缺乏魅力的栖息地和缺乏魅力的物种。螨虫、蜈蚣和马陆？黏菌和潮虫？还有线虫、线虫、线虫。这些不受喜爱的生物，连同无数蚯蚓，是大概所有栖息地中最缺乏魅力的一种——土壤——的居民。然而，生态学家弗兰克·阿什伍德（Frank Ashwood）认为，土壤及其居民才是所有生态系统中最重要的。没有它们，雨林和稀树草原就不会存在——因为这些更上镜的生物群系确实扎根于土壤。农业也是如此，自从智人学会耕种以来，农业一直滋养着人类。如果你想要生物多样性，土壤就能提供。据阿什伍德博士称，一茶匙健康的表层土可以容纳多达60亿个微生物；一平方米温带林地或草地土壤含有约300条蚯蚓、5万只跳虫、10万只螨虫和500万条线虫。此外，对于那些担心全球变暖的人，土壤是让碳远离大气的好方法。例如，一公顷北方森林土壤中储存的碳比一架巨型喷气式客机还重。因此，忽视土壤，后果自负。</p>
+<p>部分原因是，土壤确实就是“泥土”。碰到它，它就会四处沾附。如果它进入伤口，医生可能建议你打破伤风针并服用抗生素。但还有一个可见性的问题。空气和水是透明的，土壤则不然。生活在土壤中的生物可能过着与森林居民一样精彩的生活，但它们隐藏于人类视线之外。然而，把它们挖出来，结果令人惊叹。例如，有一种螨虫进化出产生抗冻蛋白的能力，从而能在亚南极岛屿的土壤中生存。假蝎学会了抓住甲虫等飞虫搭便车前往新家。黏菌形成的觅食网络非常高效，规划者可以用它们来模拟公共交通网络。潮虫中有一种物种会成对结合（这种方式在无脊椎动物中几乎闻所未闻），以便一方守护含有幼崽的洞穴，另一方外出觅食。而线虫（估计占个体动物总数的80%）已被科学家从古老的西伯利亚冻土样本中复活。按照阿什伍德博士的说法，人类并非土壤的好伴侣。现代机械化农业不仅导致水土流失，还会压实剩余的土壤，使颗粒黏结在一起，从而阻碍生物在其中穿行。结果是物种多样性大量丧失。不过，在世界上一些地方，出现了反弹。“免耕”和再生农业旨在保护现有的土壤生物多样性并增加它。如果做得好，这种方法比传统现代方法更有利可图。</p>
+<p>那么，如果大卫·爱登堡爵士想找一部谢幕之作，不如让他的摄制组去拍摄世界各地的土壤。旅行预算很可能与拍摄一部更传统的野生动物纪录片一样高，因为阿什伍德博士的例子来自非洲、亚马逊、澳大利亚、新西兰、乌克兰，甚至苏格兰高地，还有北美和他自己的祖国英格兰。与其说是“地球上的生命”，不如说是“地球内的生命”。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-071</guid>
       <category>Culture</category>
       <pubDate>Wed, 16 Sep 2026 06:32:01 +0000</pubDate>
@@ -1594,37 +1355,34 @@ Then there are the uncharismatic habitats with u...]]></description>
       <pubDate>Wed, 16 Sep 2026 05:32:01 +0000</pubDate>
     </item>
     <item>
-      <title>The Emmy winners worth your time (and one that isn’t)</title>
+      <title>值得你花时间的艾美奖获奖作品（还有一部不值得）</title>
       <link>https://www.economist.com/54a05178-f927-4836-a2b9-723d26736677.html</link>
-      <description><![CDATA[<strong>Culture</strong><br/><br/>Culture | The Economist watches
-
-
-
-
-Sep 17th 2026
-On September 14th the Emmy Awards celebrated big hits of the small screen. But the judges do not always get it right. (“The Wire”, one of the best tv shows of all time, never won during its five-season run.) Our critics have chosen the winners that d...]]></description>
-      <content:encoded><![CDATA[<h2>The Emmy winners worth your time (and one that isn’t)</h2>
-<p><span class="te_section_title">Culture</span><span class="te_fly_span"> | The Economist watches</span></p><p>
-</p>
-
-<p><img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/e5ad36356b4f73f24e48c1448f9b40dc.jpg"/></p>
-<hr/>
-<span class="te_article_datePublished">Sep 17th 2026</span><br/>
-<p>On September 14th the Emmy Awards celebrated big hits of the small screen. But the judges do not always get it right. (“The Wire”, one of the best tv shows of all time, never won during its five-season run.) Our critics have chosen the winners that do deserve their statuettes—not to mention hours of your time—and one show you should skip.</p>
-<p>“The Diplomat”The third season of this ripping political thriller saw Grace Penn (Allison Janney, also one of the night’s winners) become president of the United States. The show explores ruthless pragmatism and marital tension, as characters weigh personal ambition and public duty.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/9da1ba75020ec6f162dea0d0b41a3970.jpg"/></p>
-<p>“DTF St. Louis”Floyd has been found dead. In this mini-series the narrative toggles between a police investigation and past events, revealing Floyd’s friendship with Clark, a colleague; his strained relationship with wife Carol; and Clark’s and Carol’s affair. This intriguing tale of desire, secrecy and manipulation keeps you wondering: WTF?</p>
-<p>“Hacks”Jean Smart has won five Emmys for playing Deborah Vance, a comedian. In the satisfying final season, Deborah has quit her late-night tv gig and is trying to rebuild her reputation—despite a non-compete clause and a restraining order barring her from performing.</p>
-<p>“Mr Scorsese” A five-part documentary about one of America’s greatest film-makers. He reflects on his childhood in a Sicilian enclave in Manhattan, his former desire to become a priest and his infatuation with cinema. Yet this is no puff piece: Mr Scorsese talks openly about his professional failures and drug abuse.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/06b49b3541b80588a6c93798dcd9eccf.jpg"/></p>
-<p>“The Pitt”This addictive medical drama was a worthy winner of six Emmys this year. It has been called a “portrait of American failure”, but that is not quite right: social problems loom large, as they would in any good story about emergency medicine. Instead it celebrates people doing their best in the face of adversity.</p>
-<p>“Slow Horses”This hit show follows fictional pariahs of MI5, Britain’s domestic-security service. Gary Oldman is superb as Jackson Lamb, the filthy, flatulent spy who oversees the motley crew of agents, as is Kristin Scott Thomas as Diana Taverner, a supremely competent, conniving but always cool-headed intelligence bureaucrat.</p>
-<p>“Widow’s Bay”Tom Loftis is desperate to make something of Widow’s Bay, an island off the coast of New England. The mayor reckons it could be a tourist destination—the problem is, its inhabitants speak of bogeymen, curses and killer fog. This spooky comedy was the biggest winner, with 14 Emmys; Matthew Rhys made history with two lead acting prizes, one for his turn as Tom.</p>
-<p><img src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/b30d172698b19447a5fe6453478a85a3.jpg"/></p>
-<p>And what not to watch:</p>
-<p>“Pluribus”An extraterrestrial signal leads to a reprogramming of humanity. Only a handful of people are unaffected by the “psychic glue” that binds the world’s population into a single consciousness. This creepy dystopia collected six Emmys and asks big, bold questions. But after the initial puzzle, it is disappointingly dull.■</p>
-
-]]></content:encoded>
+      <description><![CDATA[<strong>Culture</strong><br/><br/>文化 | 《经济学人》观剧  2026年9月17日
+9月14日，艾美奖表彰了小银幕上的热门剧集。但评委们并非总是判断正确。（《火线》是有史以来最优秀的电视剧之一，但在五季播出期间从未获奖。）我们的评论家选出了真正值得捧起奖杯的获奖作品——更不用说值得你花上数小时去观看——还有一部你应该跳过的剧。
+《外交风云》
+这部扣人心弦的政治惊悚剧第三季中，格蕾丝·潘（艾莉森·珍妮饰，也是当晚获奖者之一）成为美国总统。该剧探讨了无情的实用主义与婚姻紧张关系，剧中人物在个人野心与公共责任之间权衡。⁕⁎IMG_01⁕⁎
+《圣路易斯DTF》
+弗洛伊德被发现死亡。在这部迷你剧中，叙事在警方调查与过去事件之间切换，揭...]]></description>
+      <content:encoded><![CDATA[<h2>值得你花时间的艾美奖获奖作品（还有一部不值得）</h2>
+文化 | 《经济学人》观剧 <img class="te_head_image" src="https://raw.githubusercontent.com/936842920/ljhrss/main/images/e5ad36356b4f73f24e48c1448f9b40dc.jpg"/> 2026年9月17日
+<p>9月14日，艾美奖表彰了小银幕上的热门剧集。但评委们并非总是判断正确。（《火线》是有史以来最优秀的电视剧之一，但在五季播出期间从未获奖。）我们的评论家选出了真正值得捧起奖杯的获奖作品——更不用说值得你花上数小时去观看——还有一部你应该跳过的剧。</p>
+<p>《外交风云》</p>
+<p>这部扣人心弦的政治惊悚剧第三季中，格蕾丝·潘（艾莉森·珍妮饰，也是当晚获奖者之一）成为美国总统。该剧探讨了无情的实用主义与婚姻紧张关系，剧中人物在个人野心与公共责任之间权衡。⁕⁎IMG_01⁕⁎</p>
+<p>《圣路易斯DTF》</p>
+<p>弗洛伊德被发现死亡。在这部迷你剧中，叙事在警方调查与过去事件之间切换，揭示了弗洛伊德与同事克拉克的友谊、他与妻子卡罗尔紧张的关系，以及克拉克和卡罗尔的婚外情。这个关于欲望、秘密与操控的引人入胜的故事让你一直想知道：到底怎么回事？</p>
+<p>《绝望写手》</p>
+<p>让·斯马特凭借饰演喜剧演员黛博拉·万斯已五次获得艾美奖。在圆满的最终季中，黛博拉辞去了深夜电视节目工作，并试图重建自己的声誉——尽管有竞业禁止条款和禁止她表演的限制令。</p>
+<p>《斯科塞斯先生》</p>
+<p>一部关于美国最伟大电影人之一的五集纪录片。他回顾了自己在曼哈顿西西里飞地的童年、曾经成为牧师的愿望，以及对电影的迷恋。然而这并非一部吹捧之作：斯科塞斯先生坦率地谈论了自己的职业失败和药物滥用。⁕⁎IMG_02⁕⁎</p>
+<p>《匹兹堡急诊》</p>
+<p>这部令人上瘾的医疗剧今年赢得六项艾美奖，实至名归。它被称为“美国失败的写照”，但这并不完全准确：社会问题突出，正如任何优秀的急诊医学故事中那样。相反，它颂扬的是人们在逆境中尽力而为的精神。</p>
+<p>《流人》</p>
+<p>这部热门剧集讲述了英国国内安全机构军情五处虚构的弃儿们。加里·奥德曼饰演杰克逊·兰姆——那个邋遢、爱放屁、管理着一群杂牌特工的情报员——表现出色；克里斯汀·斯科特·托马斯饰演戴安娜·塔弗纳，一位极其能干、诡计多端但始终冷静的情报官僚，同样精彩。</p>
+<p>《寡妇湾》</p>
+<p>汤姆·洛夫蒂斯迫切希望在新英格兰海岸外的寡妇湾岛有所作为。市长认为那里可以成为旅游目的地——问题是，岛上的居民谈论着妖怪、诅咒和致命浓雾。这部阴森喜剧是最大赢家，获得14项艾美奖；马修·瑞斯创造历史，获得两项主演奖，其中一项就是饰演汤姆。⁕⁎IMG_03⁕⁎</p>
+<p>以及不值得看的：</p>
+<p>《普里布斯》</p>
+<p>一个外星信号导致人类被重新编程。只有少数人不受这种将全世界人口联结为单一意识的“心灵胶水”影响。这部令人不安的反乌托邦剧集获得六项艾美奖，并提出了宏大而大胆的问题。但在最初的谜团之后，它令人失望地乏味。■</p>]]></content:encoded>
       <guid isPermaLink="false">ljh20260919-073</guid>
       <category>Culture</category>
       <pubDate>Wed, 16 Sep 2026 04:32:01 +0000</pubDate>
